@@ -1328,7 +1328,7 @@
         <handlers:Item Key="item0516" Value="雷狼竜の雷電殻 "/>
         <handlers:Item Key="item0517" Value="超電雷光虫"/>
         <handlers:Item Key="item0518" Value="雷狼竜の天玉"/>
-        <handlers:Item Key="item0519" Value="Item 1305"/>
+             <handlers:Item Key="item0519" Value="Item 1305"/>
         <handlers:Item Key="item051A" Value="Item 1306"/>
         <handlers:Item Key="item051B" Value="Item 1307"/>
         <handlers:Item Key="item051C" Value="Item 1308"/>
@@ -1351,13 +1351,13 @@
         <handlers:Item Key="item052D" Value="恐暴竜の重尾"/>
         <handlers:Item Key="item052E" Value="ドス黒い血"/>
         <handlers:Item Key="item052F" Value="恐暴竜の滅鱗"/>
-        <handlers:Item Key="item0530" Value="Rajang Wildpelt"/>
-        <handlers:Item Key="item0531" Value="Rajang Hardfang"/>
-        <handlers:Item Key="item0532" Value="Rajang Hardclaw"/>
-        <handlers:Item Key="item0533" Value="Rajang Tail"/>
-        <handlers:Item Key="item0534" Value="Gold Rajang Pelt+"/>
+        <handlers:Item Key="item0530" Value="金獅子の黒荒毛"/>
+        <handlers:Item Key="item0531" Value="金獅子の重牙"/>
+        <handlers:Item Key="item0532" Value="金獅子の剛爪"/>
+        <handlers:Item Key="item0533" Value="金獅子の尻尾"/>
+        <handlers:Item Key="item0534" Value="黄金の煌毛"/>
         <handlers:Item Key="item0535" Value="Item 1333"/>
-        <handlers:Item Key="item0536" Value="Rajang Hardhorn"/>
+        <handlers:Item Key="item0536" Value="金獅子の剛角"/>
         <handlers:Item Key="item0537" Value="Item 1335"/>
         <handlers:Item Key="item0538" Value="Item 1336"/>
         <handlers:Item Key="item0539" Value="幻獣の特上皮"/>
@@ -1473,8 +1473,8 @@
         <handlers:Item Key="item05A7" Value="厳選ふきのとう"/>
         <handlers:Item Key="item05A8" Value="万年ふきのとう"/>
         <handlers:Item Key="item05A9" Value="氷瑞花"/>
-        <handlers:Item Key="item05AA" Value="氷瑞花"/>
-        <handlers:Item Key="item05AB" Value="氷瑞花"/>
+        <handlers:Item Key="item05AA" Value="雪月氷瑞花"/>
+        <handlers:Item Key="item05AB" Value="銀嶺氷瑞花"/>
         <handlers:Item Key="item05AC" Value="スノーホワイト"/>
         <handlers:Item Key="item05AD" Value="クリスタルフラワー"/>
         <handlers:Item Key="item05AE" Value="支給専用大粉塵"/>
@@ -1558,26 +1558,26 @@
         <handlers:Item Key="item05FC" Value="ガジャブー人形"/>
         <handlers:Item Key="item05FD" Value="ボワボワ人形"/>
         <handlers:Item Key="item05FE" Value="アイルー人形"/>
-        <handlers:Item Key="item05FF" Value="テトルー人形"/>
-        <handlers:Item Key="item0600" Value="テトルー人形"/>
-        <handlers:Item Key="item0601" Value="テトルー人形"/>
+        <handlers:Item Key="item05FF" Value="テトルー人形【黒】"/>
+        <handlers:Item Key="item0600" Value="テトルー人形【紺】"/>
+        <handlers:Item Key="item0601" Value="テトルー人形【青】"/>
         <handlers:Item Key="item0602" Value="プーギー人形【縞想】"/>
-        <handlers:Item Key="item0603" Value="Poogie Doll (Emperor's Duds)"/>
+        <handlers:Item Key="item0603" Value="プーギー人形【王様】"/>
         <handlers:Item Key="item0604" Value="Item 1540"/>
         <handlers:Item Key="item0605" Value="Item 1541"/>
         <handlers:Item Key="item0606" Value="Item 1542"/>
         <handlers:Item Key="item0607" Value="Item 1543"/>
         <handlers:Item Key="item0608" Value="Item 1544"/>
         <handlers:Item Key="item0609" Value="素朴なつぼ"/>
-        <handlers:Item Key="item060A" Value="Burlap Sacks"/>
-        <handlers:Item Key="item060B" Value="Bottled Spirit"/>
-        <handlers:Item Key="item060C" Value="Assorted Bottle Set"/>
-        <handlers:Item Key="item060D" Value="Crafting Tools"/>
-        <handlers:Item Key="item060E" Value="Dyed Silk Rolls"/>
-        <handlers:Item Key="item060F" Value="Ornamental Horn"/>
-        <handlers:Item Key="item0610" Value="Display Fossil"/>
-        <handlers:Item Key="item0611" Value="Simple Pottery"/>
-        <handlers:Item Key="item0612" Value="Pottery Set"/>
+        <handlers:Item Key="item060A" Value="麻袋"/>
+        <handlers:Item Key="item060B" Value="酒瓶"/>
+        <handlers:Item Key="item060C" Value="酒瓶大小セット"/>
+        <handlers:Item Key="item060D" Value="調理器具"/>
+        <handlers:Item Key="item060E" Value="反物"/>
+        <handlers:Item Key="item060F" Value="角の置物"/>
+        <handlers:Item Key="item0610" Value="化石の置物"/>
+        <handlers:Item Key="item0611" Value="素朴な土鍋"/>
+        <handlers:Item Key="item0612" Value="鍋セット"/>
         <handlers:Item Key="item0613" Value="Item 1555"/>
         <handlers:Item Key="item0614" Value="Ornamental Plate (Large)"/>
         <handlers:Item Key="item0615" Value="Basket of Ore"/>
@@ -1600,13 +1600,13 @@
         <handlers:Item Key="item0626" Value="Item 1574"/>
         <handlers:Item Key="item0627" Value="Item 1575"/>
         <handlers:Item Key="item0628" Value="Seashell"/>
-        <handlers:Item Key="item0629" Value="Symbol of Assistance"/>
-        <handlers:Item Key="item062A" Value="Symbol of Contribution"/>
-        <handlers:Item Key="item062B" Value="Symbol of Dedication"/>
-        <handlers:Item Key="item062C" Value="Symbol of Valor"/>
+        <handlers:Item Key="item0629" Value="狩猟貢献の証【一助】"/>
+        <handlers:Item Key="item062A" Value="狩猟貢献の証【尽力】"/>
+        <handlers:Item Key="item062B" Value="狩猟貢献の証【献身】"/>
+        <handlers:Item Key="item062C" Value="狩猟貢献の証【武勲】"/>
         <handlers:Item Key="item062D" Value="小金魚"/>
         <handlers:Item Key="item062E" Value="キレアジ"/>
-        <handlers:Item Key="item062F" Value="Marlin Mobile"/>
+        <handlers:Item Key="item062F" Value="カジキのモビール"/>
         <handlers:Item Key="item0630" Value="Item 1584"/>
         <handlers:Item Key="item0631" Value="Item 1585"/>
         <handlers:Item Key="item0632" Value="Item 1586"/>
@@ -1804,7 +1804,7 @@
         <handlers:Item Key="item06F2" Value="Traditional Floor"/>
         <handlers:Item Key="item06F3" Value="Traditional Lights"/>
         <handlers:Item Key="item06F4" Value="Item 1780"/>
-        <handlers:Item Key="item06F5" Value="撃龍杭砲の​​​​‍‍‏燃料"/>
+        <handlers:Item Key="item06F5" Value="撃龍杭砲の燃料"/>
         <handlers:Item Key="item06F6" Value="救援のろしの指笛"/>
         <handlers:Item Key="item06F7" Value="Item 1783"/>
         <handlers:Item Key="item06F8" Value="虫かご族・蜻蛉フライ"/>
@@ -1814,26 +1814,26 @@
         <handlers:Item Key="item06FC" Value="奇面族・マグマ鍋"/>
         <handlers:Item Key="item06FD" Value="獣纏族・ボワボワパン"/>
         <handlers:Item Key="item06FE" Value="テルマエチケット"/>
-        <handlers:Item Key="item06FF" Value="傷痕の​​​​‍‍‏紫甲殻"/>
-        <handlers:Item Key="item0700" Value="石ころ"/>
+        <handlers:Item Key="item06FF" Value="傷痕の紫甲殻"/>
+        <handlers:Item Key="item0700" Value="ケイコクチョウ"/>
         <handlers:Item Key="item0701" Value="ユキダマコガネ"/>
-        <handlers:Item Key="item0702" Value="石ころ"/>
+        <handlers:Item Key="item0702" Value="湯華岩石"/>
         <handlers:Item Key="item0703" Value="朽ちた結晶"/>
-        <handlers:Item Key="item0704" Value="森林の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0705" Value="繁栄の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0706" Value="森林の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item0704" Value="森林の結晶"/>
+        <handlers:Item Key="item0705" Value="繁栄の結晶"/>
+        <handlers:Item Key="item0706" Value="森林の結晶"/>
         <handlers:Item Key="item0707" Value="ひび割れた結晶"/>
-        <handlers:Item Key="item0708" Value="荒地の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item0708" Value="荒地の結晶"/>
         <handlers:Item Key="item0709" Value="泰然たる結晶"/>
-        <handlers:Item Key="item070A" Value="荒地の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item070A" Value="荒地の結晶"/>
         <handlers:Item Key="item070B" Value="色あせた結晶"/>
-        <handlers:Item Key="item070C" Value="深海の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item070D" Value="溟海の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item070E" Value="深海の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item070C" Value="深海の結晶"/>
+        <handlers:Item Key="item070D" Value="溟海の結晶"/>
+        <handlers:Item Key="item070E" Value="導きの結晶【陸珊瑚】"/>
         <handlers:Item Key="item070F" Value="ゆがんだ結晶"/>
-        <handlers:Item Key="item0710" Value="瘴気の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0711" Value="黄昏の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0712" Value="瘴気の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item0710" Value="瘴気の結晶"/>
+        <handlers:Item Key="item0711" Value="黄昏の結晶"/>
+        <handlers:Item Key="item0712" Value="瘴気の結晶"/>
         <handlers:Item Key="item0713" Value="Item 1811"/>
         <handlers:Item Key="item0714" Value="Item 1812"/>
         <handlers:Item Key="item0715" Value="Item 1813"/>
@@ -1843,21 +1843,21 @@
         <handlers:Item Key="item0719" Value="Item 1817"/>
         <handlers:Item Key="item071A" Value="Item 1818"/>
         <handlers:Item Key="item071B" Value="草むした大骨"/>
-        <handlers:Item Key="item071C" Value="深緑の​​​​‍‍‏大骨"/>
+        <handlers:Item Key="item071C" Value="深緑の大骨"/>
         <handlers:Item Key="item071D" Value="龍脈に眠る大骨"/>
-        <handlers:Item Key="item071E" Value="導きの​​​​‍‍‏龍骨【森林】"/>
+        <handlers:Item Key="item071E" Value="導きの龍骨【森林】"/>
         <handlers:Item Key="item071F" Value="風化した岩骨"/>
-        <handlers:Item Key="item0720" Value="荒地の​​​​‍‍‏岩骨"/>
+        <handlers:Item Key="item0720" Value="荒地の岩骨"/>
         <handlers:Item Key="item0721" Value="龍脈に鍛えられし岩骨"/>
-        <handlers:Item Key="item0722" Value="導きの​​​​‍‍‏龍骨【荒地】"/>
+        <handlers:Item Key="item0722" Value="導きの龍骨【荒地】"/>
         <handlers:Item Key="item0723" Value="鮮やかな紅骨"/>
         <handlers:Item Key="item0724" Value="妖艶な紅骨"/>
         <handlers:Item Key="item0725" Value="龍脈に染まりし紅骨"/>
-        <handlers:Item Key="item0726" Value="導きの​​​​‍‍‏龍骨【陸珊瑚】"/>
-        <handlers:Item Key="item0727" Value="異形の​​​​‍‍‏狂骨"/>
+        <handlers:Item Key="item0726" Value="導きの龍骨【陸珊瑚】"/>
+        <handlers:Item Key="item0727" Value="異形の狂骨"/>
         <handlers:Item Key="item0728" Value="瘴気を放つ狂骨"/>
         <handlers:Item Key="item0729" Value="龍脈に侵されし狂骨"/>
-        <handlers:Item Key="item072A" Value="導きの​​​​‍‍‏龍骨【瘴気】"/>
+        <handlers:Item Key="item072A" Value="導きの龍骨【瘴気】"/>
         <handlers:Item Key="item072B" Value="Item 1835"/>
         <handlers:Item Key="item072C" Value="Item 1836"/>
         <handlers:Item Key="item072D" Value="Item 1837"/>
@@ -1866,17 +1866,17 @@
         <handlers:Item Key="item0730" Value="Item 1840"/>
         <handlers:Item Key="item0731" Value="Item 1841"/>
         <handlers:Item Key="item0732" Value="Item 1842"/>
-        <handlers:Item Key="item0733" Value="龍脈の​​​​‍‍‏強竜骨"/>
-        <handlers:Item Key="item0734" Value="龍脈の​​​​‍‍‏重竜骨"/>
-        <handlers:Item Key="item0735" Value="龍脈の​​​​‍‍‏剛竜骨"/>
-        <handlers:Item Key="item0736" Value="龍脈の​​​​‍‍‏古龍骨"/>
+        <handlers:Item Key="item0733" Value="龍脈の強竜骨"/>
+        <handlers:Item Key="item0734" Value="龍脈の重竜骨"/>
+        <handlers:Item Key="item0735" Value="龍脈の剛竜骨"/>
+        <handlers:Item Key="item0736" Value="龍脈の古龍骨"/>
         <handlers:Item Key="item0737" Value="Item 1847"/>
-        <handlers:Item Key="item0738" Value="霊脈の​​​​‍‍‏重竜骨"/>
-        <handlers:Item Key="item0739" Value="霊脈の​​​​‍‍‏剛竜骨"/>
-        <handlers:Item Key="item073A" Value="霊脈の​​​​‍‍‏古龍骨"/>
-        <handlers:Item Key="item073B" Value="霊脈玉の​​​​‍‍‏かけら"/>
+        <handlers:Item Key="item0738" Value="霊脈の重竜骨"/>
+        <handlers:Item Key="item0739" Value="霊脈の剛竜骨"/>
+        <handlers:Item Key="item073A" Value="霊脈の古龍骨"/>
+        <handlers:Item Key="item073B" Value="霊脈玉のかけら"/>
         <handlers:Item Key="item073C" Value="霊脈玉"/>
-        <handlers:Item Key="item073D" Value="霊脈玉"/>
+        <handlers:Item Key="item073D" Value="大霊脈玉"/>
         <handlers:Item Key="item073E" Value="雄々しきたてがみ"/>
         <handlers:Item Key="item073F" Value="Item 1855"/>
         <handlers:Item Key="item0740" Value="艶やかな飾り羽"/>
@@ -1885,36 +1885,36 @@
         <handlers:Item Key="item0743" Value="歴戦の猛毒喉袋"/>
         <handlers:Item Key="item0744" Value="潤いに満ちた喉袋"/>
         <handlers:Item Key="item0745" Value="歴戦の大水喉袋"/>
-        <handlers:Item Key="item0746" Value="泥の​​​​‍‍‏王冠殻"/>
-        <handlers:Item Key="item0747" Value="歴戦の​​​​‍‍‏王冠殻"/>
+        <handlers:Item Key="item0746" Value="泥の王冠殻"/>
+        <handlers:Item Key="item0747" Value="歴戦の王冠殻"/>
         <handlers:Item Key="item0748" Value="Item 1864"/>
         <handlers:Item Key="item0749" Value="Item 1865"/>
         <handlers:Item Key="item074A" Value="Item 1866"/>
         <handlers:Item Key="item074B" Value="Item 1867"/>
         <handlers:Item Key="item074C" Value="まばゆい雷光針"/>
-        <handlers:Item Key="item074D" Value="歴戦の​​​​‍‍‏雷光針"/>
+        <handlers:Item Key="item074D" Value="歴戦の雷光針"/>
         <handlers:Item Key="item074E" Value="Item 1870"/>
         <handlers:Item Key="item074F" Value="Item 1871"/>
-        <handlers:Item Key="item0750" Value="古強者の​​​​‍‍‏巨大な角"/>
-        <handlers:Item Key="item0751" Value="歴戦の​​​​‍‍‏巨大な角"/>
-        <handlers:Item Key="item0752" Value="ゆらめく炎の​​​​‍‍‏毛皮"/>
-        <handlers:Item Key="item0753" Value="歴戦の​​​​‍‍‏炎毛皮"/>
-        <handlers:Item Key="item0754" Value="ざわめく雷の​​​​‍‍‏毛皮"/>
-        <handlers:Item Key="item0755" Value="歴戦の​​​​‍‍‏雷毛皮"/>
-        <handlers:Item Key="item0756" Value="女王の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0757" Value="歴戦の​​​​‍‍‏竜鱗【緑】"/>
-        <handlers:Item Key="item0758" Value="桜花の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0759" Value="桜花の​​​​‍‍‏竜鱗"/>
+        <handlers:Item Key="item0750" Value="古強者の巨大な角"/>
+        <handlers:Item Key="item0751" Value="歴戦の巨大な角"/>
+        <handlers:Item Key="item0752" Value="ゆらめく炎の毛皮"/>
+        <handlers:Item Key="item0753" Value="歴戦の炎毛皮"/>
+        <handlers:Item Key="item0754" Value="ざわめく雷の毛皮"/>
+        <handlers:Item Key="item0755" Value="歴戦の雷毛皮"/>
+        <handlers:Item Key="item0756" Value="女王の竜鱗"/>
+        <handlers:Item Key="item0757" Value="歴戦の竜鱗【緑】"/>
+        <handlers:Item Key="item0758" Value="桜花の竜鱗"/>
+        <handlers:Item Key="item0759" Value="歴戦の竜鱗【桜】"/>
         <handlers:Item Key="item075A" Value="ギラつく閃光膜"/>
         <handlers:Item Key="item075B" Value="Item 1883"/>
         <handlers:Item Key="item075C" Value="超弾力ゴム殻"/>
         <handlers:Item Key="item075D" Value="歴戦のゴム質殻"/>
-        <handlers:Item Key="item075E" Value="漆黒の​​​​‍‍‏高級毛皮"/>
-        <handlers:Item Key="item075F" Value="歴戦の​​​​‍‍‏黒毛皮"/>
-        <handlers:Item Key="item0760" Value="闇夜の​​​​‍‍‏頭巾殻"/>
+        <handlers:Item Key="item075E" Value="漆黒の高級毛皮"/>
+        <handlers:Item Key="item075F" Value="歴戦の黒毛皮"/>
+        <handlers:Item Key="item0760" Value="闇夜の頭巾殻"/>
         <handlers:Item Key="item0761" Value="Item 1889"/>
-        <handlers:Item Key="item0762" Value="墨染めの​​​​‍‍‏重油殻"/>
-        <handlers:Item Key="item0763" Value="歴戦の​​​​‍‍‏重油殻"/>
+        <handlers:Item Key="item0762" Value="墨染めの重油殻"/>
+        <handlers:Item Key="item0763" Value="歴戦の重油殻"/>
         <handlers:Item Key="item0764" Value="Item 1892"/>
         <handlers:Item Key="item0765" Value="Item 1893"/>
         <handlers:Item Key="item0766" Value="Item 1894"/>
@@ -1924,65 +1924,65 @@
         <handlers:Item Key="item076A" Value="Item 1898"/>
         <handlers:Item Key="item076B" Value="Item 1899"/>
         <handlers:Item Key="item076C" Value="禍々しい銀狼毛"/>
-        <handlers:Item Key="item076D" Value="歴戦の​​​​‍‍‏銀狼毛"/>
+        <handlers:Item Key="item076D" Value="歴戦の銀狼毛"/>
         <handlers:Item Key="item076E" Value="滑らかな氷皮"/>
-        <handlers:Item Key="item076F" Value="歴戦の​​​​‍‍‏氷皮"/>
+        <handlers:Item Key="item076F" Value="歴戦の氷皮"/>
         <handlers:Item Key="item0770" Value="Item 1904"/>
         <handlers:Item Key="item0771" Value="Item 1905"/>
         <handlers:Item Key="item0772" Value="命断ち切る惨爪"/>
-        <handlers:Item Key="item0773" Value="歴戦の​​​​‍‍‏惨爪"/>
+        <handlers:Item Key="item0773" Value="歴戦の惨爪"/>
         <handlers:Item Key="item0774" Value="魂切り裂く兇爪"/>
-        <handlers:Item Key="item0775" Value="歴戦の​​​​‍‍‏兇爪"/>
-        <handlers:Item Key="item0776" Value="王者の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0777" Value="歴戦の​​​​‍‍‏竜鱗【赤】"/>
-        <handlers:Item Key="item0778" Value="蒼天の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0779" Value="蒼天の​​​​‍‍‏竜鱗"/>
+        <handlers:Item Key="item0775" Value="歴戦の兇爪"/>
+        <handlers:Item Key="item0776" Value="王者の竜鱗"/>
+        <handlers:Item Key="item0777" Value="歴戦の竜鱗【赤】"/>
+        <handlers:Item Key="item0778" Value="蒼天の竜鱗"/>
+        <handlers:Item Key="item0779" Value="歴戦の竜鱗【蒼】"/>
         <handlers:Item Key="item077A" Value="勇壮なねじれた角"/>
-        <handlers:Item Key="item077B" Value="歴戦の​​​​‍‍‏ねじれた角"/>
-        <handlers:Item Key="item077C" Value="暴君の​​​​‍‍‏黒巻き角"/>
-        <handlers:Item Key="item077D" Value="歴戦の​​​​‍‍‏黒巻き角"/>
-        <handlers:Item Key="item077E" Value="暗殺者の​​​​‍‍‏刃翼"/>
-        <handlers:Item Key="item077F" Value="歴戦の​​​​‍‍‏刃翼"/>
-        <handlers:Item Key="item0780" Value="灼炎の​​​​‍‍‏断剣尾"/>
-        <handlers:Item Key="item0781" Value="歴戦の​​​​‍‍‏断剣尾"/>
+        <handlers:Item Key="item077B" Value="歴戦のねじれた角"/>
+        <handlers:Item Key="item077C" Value="暴君の黒巻き角"/>
+        <handlers:Item Key="item077D" Value="歴戦の黒巻き角"/>
+        <handlers:Item Key="item077E" Value="暗殺者の刃翼"/>
+        <handlers:Item Key="item077F" Value="歴戦の刃翼"/>
+        <handlers:Item Key="item0780" Value="灼炎の断剣尾"/>
+        <handlers:Item Key="item0781" Value="歴戦の断剣尾"/>
         <handlers:Item Key="item0782" Value="研ぎ澄まされた斬鉄尾"/>
-        <handlers:Item Key="item0783" Value="歴戦の​​​​‍‍‏斬鉄尾"/>
+        <handlers:Item Key="item0783" Value="歴戦の斬鉄尾"/>
         <handlers:Item Key="item0784" Value="Item 1924"/>
         <handlers:Item Key="item0785" Value="Item 1925"/>
-        <handlers:Item Key="item0786" Value="強者の​​​​‍‍‏アギト"/>
-        <handlers:Item Key="item0787" Value="歴戦の​​​​‍‍‏アギト"/>
-        <handlers:Item Key="item0788" Value="戦慄の​​​​‍‍‏黒アギト"/>
-        <handlers:Item Key="item0789" Value="歴戦の​​​​‍‍‏黒アギト"/>
+        <handlers:Item Key="item0786" Value="強者のアギト"/>
+        <handlers:Item Key="item0787" Value="歴戦のアギト"/>
+        <handlers:Item Key="item0788" Value="戦慄の黒アギト"/>
+        <handlers:Item Key="item0789" Value="歴戦の黒アギト"/>
         <handlers:Item Key="item078A" Value="みなぎる雷電殻"/>
-        <handlers:Item Key="item078B" Value="歴戦の​​​​‍‍‏雷電殻"/>
+        <handlers:Item Key="item078B" Value="歴戦の雷電殻"/>
         <handlers:Item Key="item078C" Value="Item 1932"/>
         <handlers:Item Key="item078D" Value="Item 1933"/>
         <handlers:Item Key="item078E" Value="血に染まる漆黒皮"/>
-        <handlers:Item Key="item078F" Value="歴戦の​​​​‍‍‏漆黒皮"/>
+        <handlers:Item Key="item078F" Value="歴戦の漆黒皮"/>
         <handlers:Item Key="item0790" Value="荘厳なる蒼角"/>
-        <handlers:Item Key="item0791" Value="歴戦の​​​​‍‍‏蒼角"/>
-        <handlers:Item Key="item0792" Value="獄炎の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0793" Value="歴戦の​​​​‍‍‏紅きたてがみ"/>
+        <handlers:Item Key="item0791" Value="歴戦の蒼角"/>
+        <handlers:Item Key="item0792" Value="獄炎のたてがみ"/>
+        <handlers:Item Key="item0793" Value="歴戦の紅きたてがみ"/>
         <handlers:Item Key="item0794" Value="嵐を呼ぶ鋼翼"/>
-        <handlers:Item Key="item0795" Value="歴戦の​​​​‍‍‏鋼翼"/>
-        <handlers:Item Key="item0796" Value="蒼炎の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0797" Value="蒼炎の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0798" Value="極光の​​​​‍‍‏冠角"/>
-        <handlers:Item Key="item0799" Value="歴戦の​​​​‍‍‏王冠殻"/>
+        <handlers:Item Key="item0795" Value="歴戦の鋼翼"/>
+        <handlers:Item Key="item0796" Value="蒼炎のたてがみ"/>
+        <handlers:Item Key="item0797" Value="歴戦の蒼きたてがみ"/>
+        <handlers:Item Key="item0798" Value="極光の冠角"/>
+        <handlers:Item Key="item0799" Value="歴戦の王冠殻"/>
         <handlers:Item Key="item079A" Value="宵闇より昏き牙"/>
-        <handlers:Item Key="item079B" Value="宵闇より昏き牙"/>
+        <handlers:Item Key="item079B" Value="歴戦の昏き牙"/>
         <handlers:Item Key="item079C" Value="幻惑する特上皮"/>
-        <handlers:Item Key="item079D" Value="歴戦の​​​​‍‍‏幻惑皮"/>
-        <handlers:Item Key="item079E" Value="生者必滅の​​​​‍‍‏大剛角"/>
+        <handlers:Item Key="item079D" Value="歴戦の幻惑皮"/>
+        <handlers:Item Key="item079E" Value="生者必滅の大剛角"/>
         <handlers:Item Key="item079F" Value="Item 1951"/>
-        <handlers:Item Key="item07A0" Value="月光の​​​​‍‍‏竜鱗"/>
+        <handlers:Item Key="item07A0" Value="月光の竜鱗"/>
         <handlers:Item Key="item07A1" Value="Item 1953"/>
-        <handlers:Item Key="item07A2" Value="烈日の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item07A3" Value="Tempered Silver Scale"/>
+        <handlers:Item Key="item07A2" Value="烈日の竜鱗"/>
+        <handlers:Item Key="item07A3" Value="歴戦の竜鱗【銀】"/>
         <handlers:Item Key="item07A4" Value="Item 1956"/>
         <handlers:Item Key="item07A5" Value="Item 1957"/>
-        <handlers:Item Key="item07A6" Value="Bloodthirsty Glimmerpelt"/>
-        <handlers:Item Key="item07A7" Value="Tempered Glimmerpelt"/>
+        <handlers:Item Key="item07A6" Value="闘気あふれる煌毛"/>
+        <handlers:Item Key="item07A7" Value="歴戦の煌毛"/>
         <handlers:Item Key="item07A8" Value="Item 1960"/>
         <handlers:Item Key="item07A9" Value="Item 1961"/>
         <handlers:Item Key="item07AA" Value="Item 1962"/>
@@ -2013,7 +2013,7 @@
         <handlers:Item Key="item07C3" Value="耐氷珠Ⅲ【４】"/>
         <handlers:Item Key="item07C4" Value="耐雷珠Ⅲ【４】"/>
         <handlers:Item Key="item07C5" Value="耐龍珠Ⅲ【４】"/>
-        <handlers:Item Key="item07C6" Value="解毒薬"/>
+        <handlers:Item Key="item07C6" Value="耐毒珠Ⅱ【４】"/>
         <handlers:Item Key="item07C7" Value="耐麻珠Ⅱ【４】"/>
         <handlers:Item Key="item07C8" Value="耐眠珠Ⅱ【４】"/>
         <handlers:Item Key="item07C9" Value="耐絶珠Ⅱ【４】"/>
@@ -2065,7 +2065,7 @@
         <handlers:Item Key="item07F7" Value="鉄壁・体術珠【４】"/>
         <handlers:Item Key="item07F8" Value="友愛・体術珠【４】"/>
         <handlers:Item Key="item07F9" Value="節食・体術珠【４】"/>
-        <handlers:Item Key="item07FA" Value="石ころ"/>
+        <handlers:Item Key="item07FA" Value="投石・体術珠【４】"/>
         <handlers:Item Key="item07FB" Value="耐属・体術珠【４】"/>
         <handlers:Item Key="item07FC" Value="飛燕・体術珠【４】"/>
         <handlers:Item Key="item07FD" Value="強走・体術珠【４】"/>
@@ -2084,7 +2084,7 @@
         <handlers:Item Key="item080A" Value="鉄壁・回避珠【４】"/>
         <handlers:Item Key="item080B" Value="友愛・回避珠【４】"/>
         <handlers:Item Key="item080C" Value="節食・回避珠【４】"/>
-        <handlers:Item Key="item080D" Value="石ころ"/>
+        <handlers:Item Key="item080D" Value="投石・回避珠【４】"/>
         <handlers:Item Key="item080E" Value="耐属・回避珠【４】"/>
         <handlers:Item Key="item080F" Value="飛燕・回避珠【４】"/>
         <handlers:Item Key="item0810" Value="強走・回避珠【４】"/>
@@ -2103,7 +2103,7 @@
         <handlers:Item Key="item081D" Value="鉄壁・攻撃珠【４】"/>
         <handlers:Item Key="item081E" Value="友愛・攻撃珠【４】"/>
         <handlers:Item Key="item081F" Value="節食・攻撃珠【４】"/>
-        <handlers:Item Key="item0820" Value="石ころ"/>
+        <handlers:Item Key="item0820" Value="投石・攻撃珠【４】"/>
         <handlers:Item Key="item0821" Value="耐属・攻撃珠【４】"/>
         <handlers:Item Key="item0822" Value="飛燕・攻撃珠【４】"/>
         <handlers:Item Key="item0823" Value="強走・攻撃珠【４】"/>
@@ -2122,7 +2122,7 @@
         <handlers:Item Key="item0830" Value="鉄壁・達人珠【４】"/>
         <handlers:Item Key="item0831" Value="友愛・達人珠【４】"/>
         <handlers:Item Key="item0832" Value="節食・達人珠【４】"/>
-        <handlers:Item Key="item0833" Value="石ころ"/>
+        <handlers:Item Key="item0833" Value="投石・達人珠【４】"/>
         <handlers:Item Key="item0834" Value="耐属・達人珠【４】"/>
         <handlers:Item Key="item0835" Value="飛燕・達人珠【４】"/>
         <handlers:Item Key="item0836" Value="強走・達人珠【４】"/>
@@ -2141,7 +2141,7 @@
         <handlers:Item Key="item0843" Value="鉄壁・解放珠【４】"/>
         <handlers:Item Key="item0844" Value="友愛・解放珠【４】"/>
         <handlers:Item Key="item0845" Value="節食・解放珠【４】"/>
-        <handlers:Item Key="item0846" Value="石ころ"/>
+        <handlers:Item Key="item0846" Value="投石・解放珠【４】"/>
         <handlers:Item Key="item0847" Value="耐属・解放珠【４】"/>
         <handlers:Item Key="item0848" Value="飛燕・解放珠【４】"/>
         <handlers:Item Key="item0849" Value="強走・解放珠【４】"/>
@@ -2160,7 +2160,7 @@
         <handlers:Item Key="item0856" Value="鉄壁・匠珠【４】"/>
         <handlers:Item Key="item0857" Value="友愛・匠珠【４】"/>
         <handlers:Item Key="item0858" Value="節食・匠珠【４】"/>
-        <handlers:Item Key="item0859" Value="石ころ"/>
+        <handlers:Item Key="item0859" Value="投石・匠珠【４】"/>
         <handlers:Item Key="item085A" Value="耐属・匠珠【４】"/>
         <handlers:Item Key="item085B" Value="飛燕・匠珠【４】"/>
         <handlers:Item Key="item085C" Value="強走・匠珠【４】"/>
@@ -2588,19 +2588,19 @@
         <handlers:Item Key="item0A02" Value="Item 2562"/>
         <handlers:Item Key="item0A03" Value="Item 2563"/>
         <handlers:Item Key="item0A04" Value="Item 2564"/>
-        <handlers:Item Key="item0A05" Value="Grand Appreciation Figure"/>
+        <handlers:Item Key="item0A05" Value="フィギュア【大感謝】"/>
         <handlers:Item Key="item0A06" Value="Item 2566"/>
         <handlers:Item Key="item0A07" Value="Item 2567"/>
-        <handlers:Item Key="item0A08" Value="(Room) Green Herb"/>
-        <handlers:Item Key="item0A09" Value="(Room) Red Herb"/>
-        <handlers:Item Key="item0A0A" Value="(Room) Blue Herb"/>
-        <handlers:Item Key="item0A0B" Value="First Aid Sprays"/>
-        <handlers:Item Key="item0A0C" Value="Mr. Raccoon"/>
-        <handlers:Item Key="item0A0D" Value="Creepy Rugs (1F)"/>
-        <handlers:Item Key="item0A0E" Value="Creepy Rugs (2F)"/>
-        <handlers:Item Key="item0A0F" Value="S.T.A.R.S. Plaque Set 1"/>
-        <handlers:Item Key="item0A10" Value="S.T.A.R.S. Plaque Set 2"/>
-        <handlers:Item Key="item0A11" Value="Typewriter"/>
+        <handlers:Item Key="item0A08" Value="グリーンハーブの鉢"/>
+        <handlers:Item Key="item0A09" Value="レッドハーブの鉢"/>
+        <handlers:Item Key="item0A0A" Value="ブルーハーブの鉢"/>
+        <handlers:Item Key="item0A0B" Value="救急スプレー"/>
+        <handlers:Item Key="item0A0C" Value="Mr.ラクーン"/>
+        <handlers:Item Key="item0A0D" Value="不穏な絨毯(1階)"/>
+        <handlers:Item Key="item0A0E" Value="不穏な絨毯(2階)"/>
+        <handlers:Item Key="item0A0F" Value="S.T.A.R.S.の壁掛け①"/>
+        <handlers:Item Key="item0A10" Value="S.T.A.R.S.の壁掛け②"/>
+        <handlers:Item Key="item0A11" Value="タイプライター"/>
         <handlers:Item Key="item0A12" Value="(Room) Item Box"/>
         <handlers:Item Key="item0A13" Value="Item 2579"/>
         <handlers:Item Key="item0A14" Value="Item 2580"/>
@@ -2706,9 +2706,9 @@
         <handlers:Item Key="item0A78" Value="Item 2680"/>
         <handlers:Item Key="item0A79" Value="Item 2681"/>
         <handlers:Item Key="item0A7A" Value="Item 2682"/>
-        <handlers:Item Key="item0A7B" Value="Green Herb"/>
-        <handlers:Item Key="item0A7C" Value="Red Herb"/>
-        <handlers:Item Key="item0A7D" Value="Mixed Herb (G+R)"/>
+        <handlers:Item Key="item0A7B" Value="グリーンハーブ"/>
+        <handlers:Item Key="item0A7C" Value="レッドハーブ"/>
+        <handlers:Item Key="item0A7D" Value="調合ハーブ（緑＋赤）"/>
         <handlers:Item Key="item0A7E" Value="銅の錬金チケット"/>
         <handlers:Item Key="item0A7F" Value="銀の錬金チケット"/>
         <handlers:Item Key="item0A80" Value="マカ錬金の​​​​‍‍‏珠・鋼"/>
@@ -2727,9 +2727,9 @@
         <handlers:Item Key="item0A8D" Value="Item 2701"/>
         <handlers:Item Key="item0A8E" Value="Item 2702"/>
         <handlers:Item Key="item0A8F" Value="Item 2703"/>
-        <handlers:Item Key="item0A90" Value="Black Eagle Blueprint"/>
-        <handlers:Item Key="item0A91" Value="Wiggler Pot"/>
-        <handlers:Item Key="item0A92" Value="S.T.A.R.S. Badge"/>
+        <handlers:Item Key="item0A90" Value="黒鷲の図面"/>
+        <handlers:Item Key="item0A91" Value="ユラユラの壷"/>
+        <handlers:Item Key="item0A92" Value="S.T.A.R.S.バッジ"/>
         <handlers:Item Key="item0A93" Value="Item 2707"/>
         <handlers:Item Key="item0A94" Value="Item 2708"/>
         <handlers:Item Key="item0A95" Value="Item 2709"/>
@@ -2756,10 +2756,10 @@
         <handlers:Item Key="item0AAA" Value="親友の証"/>
         <handlers:Item Key="item0AAB" Value="Item 2731"/>
         <handlers:Item Key="item0AAC" Value="Item 2732"/>
-        <handlers:Item Key="item0AAD" Value="Large Beast Tear"/>
-        <handlers:Item Key="item0AAE" Value="Magnificent Pelt"/>
+        <handlers:Item Key="item0AAD" Value="牙獣の大粒ナミダ"/>
+        <handlers:Item Key="item0AAE" Value="すばらしい毛皮"/>
         <handlers:Item Key="item0AAF" Value="万福チケットSP"/>
         <handlers:Item Key="item0AB0" Value="大感謝チケットSP"/>
     </x:Array>
-
-</ResourceDictionary>
+  
+  </ResourceDictionary>
