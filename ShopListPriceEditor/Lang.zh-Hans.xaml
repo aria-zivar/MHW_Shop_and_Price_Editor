@@ -98,10 +98,10 @@
 		<handlers:Item Key="item0046" Value="小木桶"/>
 		<handlers:Item Key="item0047" Value="小爆弹桶"/>
 		<handlers:Item Key="item0048" Value="木桶飞弹"/>
-		<handlers:Item Key="item0049" Value="木桶飞弹Ｇ"/>
+		<handlers:Item Key="item0049" Value="木桶飞弹·大"/>
 		<handlers:Item Key="item004A" Value="大桶"/>
 		<handlers:Item Key="item004B" Value="大爆弹桶"/>
-		<handlers:Item Key="item004C" Value="大爆弹桶Ｇ"/>
+		<handlers:Item Key="item004C" Value="大爆弹桶·大"/>
 		<handlers:Item Key="item004D" Value="蜘蛛网"/>
 		<handlers:Item Key="item004E" Value="网子"/>
 		<handlers:Item Key="item004F" Value="陷阱工具"/>
@@ -129,8 +129,8 @@
 		<handlers:Item Key="item0065" Value="发火果实"/>
 		<handlers:Item Key="item0066" Value="LV2 火药粉"/>
 		<handlers:Item Key="item0067" Value="LV3 火药粉"/>
-		<handlers:Item Key="item0068" Value="坚硬竹筴鱼的鳍"/>
-		<handlers:Item Key="item0069" Value="坚硬竹筴鱼的上鳍"/>
+		<handlers:Item Key="item0068" Value="磨刀鲹鱼的鳍"/>
+		<handlers:Item Key="item0069" Value="磨刀鲹鱼的上鳍"/>
 		<handlers:Item Key="item006A" Value="刺身鱼鳞片"/>
 		<handlers:Item Key="item006B" Value="大刺身鱼鳞片"/>
 		<handlers:Item Key="item006C" Value="火药金鱼鳞片"/>
@@ -314,26 +314,26 @@
 		<handlers:Item Key="item011E" Value="冠突龙的坚壳"/>
 		<handlers:Item Key="item011F" Value="突击龙的坚壳"/>
 		<handlers:Item Key="item0120" Value="突击龙的尖角"/>
-		<handlers:Item Key="item0121" Value="凶豺龙的鳞"/>
-		<handlers:Item Key="item0122" Value="凶豺龙的皮"/>
-		<handlers:Item Key="item0123" Value="凶豺龙的上鳞"/>
-		<handlers:Item Key="item0124" Value="凶豺龙的上皮"/>
+		<handlers:Item Key="item0121" Value="贼龙的鳞"/>
+		<handlers:Item Key="item0122" Value="贼龙的皮"/>
+		<handlers:Item Key="item0123" Value="贼龙的上鳞"/>
+		<handlers:Item Key="item0124" Value="贼龙的上皮"/>
 		<handlers:Item Key="item0125" Value="猫蜥龙的鳞"/>
 		<handlers:Item Key="item0126" Value="猫蜥龙的皮"/>
 		<handlers:Item Key="item0127" Value="猫蜥龙的上鳞"/>
 		<handlers:Item Key="item0128" Value="猫蜥龙的上皮"/>
-		<handlers:Item Key="item0129" Value="凶颚龙的鳞"/>
-		<handlers:Item Key="item012A" Value="凶颚龙的皮"/>
-		<handlers:Item Key="item012B" Value="凶颚龙的麻痹牙"/>
-		<handlers:Item Key="item012C" Value="凶颚龙的上鳞"/>
-		<handlers:Item Key="item012D" Value="凶颚龙的上皮"/>
-		<handlers:Item Key="item012E" Value="大凶豺龙的鳞"/>
-		<handlers:Item Key="item012F" Value="大凶豺龙的皮"/>
-		<handlers:Item Key="item0130" Value="大凶豺龙的鬃毛"/>
-		<handlers:Item Key="item0131" Value="大凶豺龙的爪"/>
-		<handlers:Item Key="item0132" Value="大凶豺龙的上鳞"/>
-		<handlers:Item Key="item0133" Value="大凶豺龙的上皮"/>
-		<handlers:Item Key="item0134" Value="大凶豺龙的尖爪"/>
+		<handlers:Item Key="item0129" Value="痹贼龙的鳞"/>
+		<handlers:Item Key="item012A" Value="痹贼龙的皮"/>
+		<handlers:Item Key="item012B" Value="痹贼龙的麻痹牙"/>
+		<handlers:Item Key="item012C" Value="痹贼龙的上鳞"/>
+		<handlers:Item Key="item012D" Value="痹贼龙的上皮"/>
+		<handlers:Item Key="item012E" Value="大贼龙的鳞"/>
+		<handlers:Item Key="item012F" Value="大贼龙的皮"/>
+		<handlers:Item Key="item0130" Value="大贼龙的鬃毛"/>
+		<handlers:Item Key="item0131" Value="大贼龙的爪"/>
+		<handlers:Item Key="item0132" Value="大贼龙的上鳞"/>
+		<handlers:Item Key="item0133" Value="大贼龙的上皮"/>
+		<handlers:Item Key="item0134" Value="大贼龙的尖爪"/>
 		<handlers:Item Key="item0135" Value="搔鸟的鳞"/>
 		<handlers:Item Key="item0136" Value="搔鸟的皮"/>
 		<handlers:Item Key="item0137" Value="搔鸟的饰羽"/>
@@ -415,15 +415,15 @@
 		<handlers:Item Key="item0183" Value="浮空龙的上鳞"/>
 		<handlers:Item Key="item0184" Value="胶质坚壳"/>
 		<handlers:Item Key="item0185" Value="浮空龙之翼"/>
-		<handlers:Item Key="item0186" Value="大凶颚龙的鳞"/>
-		<handlers:Item Key="item0187" Value="大凶颚龙的皮"/>
-		<handlers:Item Key="item0188" Value="大凶颚龙的头巾壳"/>
-		<handlers:Item Key="item0189" Value="大凶颚龙的牙"/>
-		<handlers:Item Key="item018A" Value="大凶颚龙的尾巴"/>
-		<handlers:Item Key="item018B" Value="大凶颚龙的上鳞"/>
-		<handlers:Item Key="item018C" Value="大凶颚龙的上皮"/>
-		<handlers:Item Key="item018D" Value="大凶颚龙的大头巾"/>
-		<handlers:Item Key="item018E" Value="大凶颚龙的锐牙"/>
+		<handlers:Item Key="item0186" Value="大痹贼龙的鳞"/>
+		<handlers:Item Key="item0187" Value="大痹贼龙的皮"/>
+		<handlers:Item Key="item0188" Value="大痹贼龙的头巾壳"/>
+		<handlers:Item Key="item0189" Value="大痹贼龙的牙"/>
+		<handlers:Item Key="item018A" Value="大痹贼龙的尾巴"/>
+		<handlers:Item Key="item018B" Value="大痹贼龙的上鳞"/>
+		<handlers:Item Key="item018C" Value="大痹贼龙的上皮"/>
+		<handlers:Item Key="item018D" Value="大痹贼龙的大头巾"/>
+		<handlers:Item Key="item018E" Value="大痹贼龙的锐牙"/>
 		<handlers:Item Key="item018F" Value="骨锤龙的鳞"/>
 		<handlers:Item Key="item0190" Value="骨锤龙的甲壳"/>
 		<handlers:Item Key="item0191" Value="骨锤龙的黑油壳"/>
@@ -484,13 +484,13 @@
 		<handlers:Item Key="item01C8" Value="黑角龙的坚壳"/>
 		<handlers:Item Key="item01C9" Value="黑角龙的坚甲"/>
 		<handlers:Item Key="item01CA" Value="优质的黑卷角"/>
-		<handlers:Item Key="item01CB" Value="麒麟皮"/>
-		<handlers:Item Key="item01CC" Value="麒麟的尾巴"/>
-		<handlers:Item Key="item01CD" Value="麒麟的鬃毛"/>
-		<handlers:Item Key="item01CE" Value="麒麟的雷角"/>
-		<handlers:Item Key="item01CF" Value="麒麟的上皮"/>
-		<handlers:Item Key="item01D0" Value="麒麟的雷尾"/>
-		<handlers:Item Key="item01D1" Value="麒麟的苍角"/>
+		<handlers:Item Key="item01CB" Value="幻兽皮"/>
+		<handlers:Item Key="item01CC" Value="幻兽的尾巴"/>
+		<handlers:Item Key="item01CD" Value="幻兽的鬃毛"/>
+		<handlers:Item Key="item01CE" Value="幻兽的雷角"/>
+		<handlers:Item Key="item01CF" Value="幻兽的上皮"/>
+		<handlers:Item Key="item01D0" Value="幻兽的雷尾"/>
+		<handlers:Item Key="item01D1" Value="幻兽的苍角"/>
 		<handlers:Item Key="item01D2" Value="Item 0466"/>
 		<handlers:Item Key="item01D3" Value="熔山龙的热鳞"/>
 		<handlers:Item Key="item01D4" Value="熔山龙的岩壳"/>
@@ -598,12 +598,12 @@
 		<handlers:Item Key="item023A" Value="英雄龙脉石·弩"/>
 		<handlers:Item Key="item023B" Value="餐券"/>
 		<handlers:Item Key="item023C" Value="古代龙人的票据"/>
-		<handlers:Item Key="item023D" Value="古代龙人的票据Ｇ"/>
+		<handlers:Item Key="item023D" Value="古代龙人的票据·大"/>
 		<handlers:Item Key="item023E" Value="钢之龙人票据"/>
 		<handlers:Item Key="item023F" Value="银之龙人票据"/>
 		<handlers:Item Key="item0240" Value="金之龙人票据"/>
 		<handlers:Item Key="item0241" Value="勇气之证"/>
-		<handlers:Item Key="item0242" Value="勇气之证Ｇ"/>
+		<handlers:Item Key="item0242" Value="勇气之证·大"/>
 		<handlers:Item Key="item0243" Value="调查团票"/>
 		<handlers:Item Key="item0244" Value="毒妖鸟硬币"/>
 		<handlers:Item Key="item0245" Value="搔鸟硬币"/>
@@ -653,9 +653,9 @@
 		<handlers:Item Key="item0271" Value="坚实果"/>
 		<handlers:Item Key="item0272" Value="岩石果"/>
 		<handlers:Item Key="item0273" Value="狂野水果"/>
-		<handlers:Item Key="item0274" Value="特产藤壶鲍鱼"/>
-		<handlers:Item Key="item0275" Value="严选藤壶鲍鱼"/>
-		<handlers:Item Key="item0276" Value="秘藏藤壶鲍鱼"/>
+		<handlers:Item Key="item0274" Value="特产壶鲍"/>
+		<handlers:Item Key="item0275" Value="严选壶鲍"/>
+		<handlers:Item Key="item0276" Value="秘藏壶鲍"/>
 		<handlers:Item Key="item0277" Value="光明珍珠"/>
 		<handlers:Item Key="item0278" Value="深邃珍珠"/>
 		<handlers:Item Key="item0279" Value="洁白珍珠"/>
@@ -675,7 +675,7 @@
 		<handlers:Item Key="item0287" Value="月夜茸"/>
 		<handlers:Item Key="item0288" Value="龙花果"/>
 		<handlers:Item Key="item0289" Value="热带菠萝"/>
-		<handlers:Item Key="item028A" Value="藤壶色鲍鱼"/>
+		<handlers:Item Key="item028A" Value="藤蔓色壶鲍"/>
 		<handlers:Item Key="item028B" Value="白金珍珠"/>
 		<handlers:Item Key="item028C" Value="魔之化石"/>
 		<handlers:Item Key="item028D" Value="天堂莓果"/>
@@ -691,17 +691,17 @@
 		<handlers:Item Key="item0297" Value="钴闪蝶"/>
 		<handlers:Item Key="item0298" Value="幽闪蝶"/>
 		<handlers:Item Key="item0299" Value="泪之龟壳攀鲈"/>
-		<handlers:Item Key="item029A" Value="森林蜥蜴"/>
-		<handlers:Item Key="item029B" Value="蚁窝蜥蜴"/>
-		<handlers:Item Key="item029C" Value="黑暗蜥蜴"/>
-		<handlers:Item Key="item029D" Value="月光蜥蜴"/>
-		<handlers:Item Key="item029E" Value="霞雾女郎"/>
+		<handlers:Item Key="item029A" Value="森林壁虎"/>
+		<handlers:Item Key="item029B" Value="蚁冢壁虎"/>
+		<handlers:Item Key="item029C" Value="黑暗壁虎"/>
+		<handlers:Item Key="item029D" Value="月光壁虎"/>
+		<handlers:Item Key="item029E" Value="霞雾蜘蛛"/>
 		<handlers:Item Key="item029F" Value="斯卡班杰拉"/>
 		<handlers:Item Key="item02A0" Value="憎恨鸟"/>
-		<handlers:Item Key="item02A1" Value="桃源乡"/>
+		<handlers:Item Key="item02A1" Value="桃源鸟"/>
 		<handlers:Item Key="item02A2" Value="预兆蜻蜓"/>
 		<handlers:Item Key="item02A3" Value="吉兆蜻蜓"/>
-		<handlers:Item Key="item02A4" Value="鳞片打击手"/>
+		<handlers:Item Key="item02A4" Value="鳞片蝙蝠"/>
 		<handlers:Item Key="item02A5" Value="粪金龟"/>
 		<handlers:Item Key="item02A6" Value="爆弹甲虫"/>
 		<handlers:Item Key="item02A7" Value="粉色异形鱼"/>
@@ -716,7 +716,7 @@
 		<handlers:Item Key="item02B0" Value="柔毛秧鸡"/>
 		<handlers:Item Key="item02B1" Value="粗毛秧鸡"/>
 		<handlers:Item Key="item02B2" Value="蛇麻古比鱼"/>
-		<handlers:Item Key="item02B3" Value="化石汤釜"/>
+		<handlers:Item Key="item02B3" Value="化石腔棘鱼"/>
 		<handlers:Item Key="item02B4" Value="麻痹瓦斯蛙"/>
 		<handlers:Item Key="item02B5" Value="睡眠瓦斯蛙"/>
 		<handlers:Item Key="item02B6" Value="爆炸瓦斯蛙"/>
@@ -736,8 +736,8 @@
 		<handlers:Item Key="item02C4" Value="铁鲎"/>
 		<handlers:Item Key="item02C5" Value="军团鲎"/>
 		<handlers:Item Key="item02C6" Value="绿宝石鲎"/>
-		<handlers:Item Key="item02C7" Value="坚硬竹筴鱼"/>
-		<handlers:Item Key="item02C8" Value="大坚硬竹筴鱼"/>
+		<handlers:Item Key="item02C7" Value="磨刀鲹鱼"/>
+		<handlers:Item Key="item02C8" Value="大磨刀鲹鱼"/>
 		<handlers:Item Key="item02C9" Value="贪吃鲔鱼"/>
 		<handlers:Item Key="item02CA" Value="贪吃鲔鱼王"/>
 		<handlers:Item Key="item02CB" Value="大王旗鱼"/>
@@ -796,7 +796,7 @@
 		<handlers:Item Key="item0300" Value="匠珠【３】"/>
 		<handlers:Item Key="item0301" Value="拔刀珠【２】"/>
 		<handlers:Item Key="item0302" Value="重击珠【２】"/>
-		<handlers:Item Key="item0303" Value="ＫＯ珠【２】"/>
+		<handlers:Item Key="item0303" Value="击晕珠【２】"/>
 		<handlers:Item Key="item0304" Value="夺气珠【１】"/>
 		<handlers:Item Key="item0305" Value="Item 0773"/>
 		<handlers:Item Key="item0306" Value="飞燕珠【２】"/>
@@ -987,7 +987,7 @@
 		<handlers:Item Key="item03BF" Value="Item 0959"/>
 		<handlers:Item Key="item03C0" Value="Item 0960"/>
 		<handlers:Item Key="item03C1" Value="松软票"/>
-		<handlers:Item Key="item03C2" Value="硬梆梆票"/>
+		<handlers:Item Key="item03C2" Value="钢针票"/>
 		<handlers:Item Key="item03C3" Value="第一期团票"/>
 		<handlers:Item Key="item03C4" Value="第五期团票"/>
 		<handlers:Item Key="item03C5" Value="炎妃龙票"/>
@@ -1053,7 +1053,7 @@
 		<handlers:Item Key="item0401" Value="爆音铜锣口哨"/>
 		<handlers:Item Key="item0402" Value="盗掠连击口哨"/>
 		<handlers:Item Key="item0403" Value="喷火壶爆弹口哨"/>
-		<handlers:Item Key="item0404" Value="ZENY"/>
+		<handlers:Item Key="item0404" Value="金钱"/>
 		<handlers:Item Key="item0405" Value="调查点数"/>
 		<handlers:Item Key="item0406" Value="绯鸢石"/>
 		<handlers:Item Key="item0407" Value="云鸠石"/>
@@ -1110,18 +1110,18 @@
 		<handlers:Item Key="item043A" Value="Item 1082"/>
 		<handlers:Item Key="item043B" Value="突击龙的重壳"/>
 		<handlers:Item Key="item043C" Value="Item 1084"/>
-		<handlers:Item Key="item043D" Value="凶豺龙的厚鳞"/>
+		<handlers:Item Key="item043D" Value="贼龙的厚鳞"/>
 		<handlers:Item Key="item043E" Value="Item 1086"/>
 		<handlers:Item Key="item043F" Value="猫蜥龙的厚鳞"/>
 		<handlers:Item Key="item0440" Value="Item 1088"/>
-		<handlers:Item Key="item0441" Value="凶颚龙厚鳞"/>
+		<handlers:Item Key="item0441" Value="痹贼龙厚鳞"/>
 		<handlers:Item Key="item0442" Value="Item 1090"/>
 		<handlers:Item Key="item0443" Value="冰豺狼的厚毛皮"/>
 		<handlers:Item Key="item0444" Value="Item 1092"/>
-		<handlers:Item Key="item0445" Value="大凶豺龙的厚鳞"/>
-		<handlers:Item Key="item0446" Value="大凶豺龙的厚皮"/>
-		<handlers:Item Key="item0447" Value="大凶豺龙的刚爪"/>
-		<handlers:Item Key="item0448" Value="大凶豺龙的大鬃毛"/>
+		<handlers:Item Key="item0445" Value="大贼龙的厚鳞"/>
+		<handlers:Item Key="item0446" Value="大贼龙的厚皮"/>
+		<handlers:Item Key="item0447" Value="大贼龙的刚爪"/>
+		<handlers:Item Key="item0448" Value="大贼龙的大鬃毛"/>
 		<handlers:Item Key="item0449" Value="搔鸟的厚鳞"/>
 		<handlers:Item Key="item044A" Value="搔鸟的厚皮"/>
 		<handlers:Item Key="item044B" Value="搔鸟的特大饰羽"/>
@@ -1197,11 +1197,11 @@
 		<handlers:Item Key="item0491" Value="浮眠龙的厚毛皮"/>
 		<handlers:Item Key="item0492" Value="浮眠龙的厚鳞"/>
 		<handlers:Item Key="item0493" Value="浮眠龙的刚翼"/>
-		<handlers:Item Key="item0494" Value="大凶颚龙的厚鳞"/>
-		<handlers:Item Key="item0495" Value="大凶颚龙的厚皮"/>
-		<handlers:Item Key="item0496" Value="大凶颚龙的重头巾"/>
-		<handlers:Item Key="item0497" Value="大凶颚龙的重牙"/>
-		<handlers:Item Key="item0498" Value="大凶颚龙的韧尾"/>
+		<handlers:Item Key="item0494" Value="大痹贼龙的厚鳞"/>
+		<handlers:Item Key="item0495" Value="大痹贼龙的厚皮"/>
+		<handlers:Item Key="item0496" Value="大痹贼龙的重头巾"/>
+		<handlers:Item Key="item0497" Value="大痹贼龙的重牙"/>
+		<handlers:Item Key="item0498" Value="大痹贼龙的韧尾"/>
 		<handlers:Item Key="item0499" Value="骨锤龙的厚鳞"/>
 		<handlers:Item Key="item049A" Value="骨锤龙的重壳"/>
 		<handlers:Item Key="item049B" Value="骨锤龙的重油壳"/>
@@ -1302,7 +1302,7 @@
 		<handlers:Item Key="item04FA" Value="硫斩龙的重牙"/>
 		<handlers:Item Key="item04FB" Value="硫斩龙的剑山状壳"/>
 		<handlers:Item Key="item04FC" Value="硫斩龙的断剑尾"/>
-		<handlers:Item Key="item04FD" Value="削下的硫芯片"/>
+		<handlers:Item Key="item04FD" Value="削下的硫晶片"/>
 		<handlers:Item Key="item04FE" Value="Item 1278"/>
 		<handlers:Item Key="item04FF" Value="碎龙的重壳"/>
 		<handlers:Item Key="item0500" Value="碎龙的重黑曜甲"/>
@@ -1353,19 +1353,19 @@
 		<handlers:Item Key="item052D" Value="恐暴龙的重尾"/>
 		<handlers:Item Key="item052E" Value="浓黑之血"/>
 		<handlers:Item Key="item052F" Value="恐暴龙的灭鳞"/>
-        <handlers:Item Key="item0530" Value="Rajang Wildpelt"/>
-        <handlers:Item Key="item0531" Value="Rajang Hardfang"/>
-        <handlers:Item Key="item0532" Value="Rajang Hardclaw"/>
-        <handlers:Item Key="item0533" Value="Rajang Tail"/>
-        <handlers:Item Key="item0534" Value="Gold Rajang Pelt+"/>
+        <handlers:Item Key="item0530" Value="金狮子的黑荒毛"/>
+        <handlers:Item Key="item0531" Value="金狮子的重牙"/>
+        <handlers:Item Key="item0532" Value="金狮子的刚爪"/>
+        <handlers:Item Key="item0533" Value="金狮子的尾巴"/>
+        <handlers:Item Key="item0534" Value="黄金的煌毛"/>
 		<handlers:Item Key="item0535" Value="Item 1333"/>
-        <handlers:Item Key="item0536" Value="Rajang Hardhorn"/>
+        <handlers:Item Key="item0536" Value="金狮子的刚角"/>
 		<handlers:Item Key="item0537" Value="Item 1335"/>
 		<handlers:Item Key="item0538" Value="Item 1336"/>
-		<handlers:Item Key="item0539" Value="麒麟的特上皮"/>
-		<handlers:Item Key="item053A" Value="麒麟的韧雷尾"/>
-		<handlers:Item Key="item053B" Value="麒麟的银鬃毛"/>
-		<handlers:Item Key="item053C" Value="麒麟的刚苍角"/>
+		<handlers:Item Key="item0539" Value="幻兽的特上皮"/>
+		<handlers:Item Key="item053A" Value="幻兽的韧雷尾"/>
+		<handlers:Item Key="item053B" Value="幻兽的银鬃毛"/>
+		<handlers:Item Key="item053C" Value="幻兽的刚苍角"/>
 		<handlers:Item Key="item053D" Value="不灭的厚龙鳞"/>
 		<handlers:Item Key="item053E" Value="灭尽龙的重壳"/>
 		<handlers:Item Key="item053F" Value="灭尽龙的重尾"/>
@@ -1402,7 +1402,7 @@
 		<handlers:Item Key="item055E" Value="尸套龙的重壳"/>
 		<handlers:Item Key="item055F" Value="死尸交织的被膜"/>
 		<handlers:Item Key="item0560" Value="尸套龙的重尾"/>
-		<handlers:Item Key="item0561" Value="食闇之牙"/>
+		<handlers:Item Key="item0561" Value="食暗之牙"/>
 		<handlers:Item Key="item0562" Value="尸套龙的刚爪"/>
 		<handlers:Item Key="item0563" Value="尸套龙的刚翼"/>
 		<handlers:Item Key="item0564" Value="溟波龙的特上皮"/>
@@ -1458,7 +1458,7 @@
 		<handlers:Item Key="item0596" Value="Item 1430"/>
 		<handlers:Item Key="item0597" Value="天之龙人票据"/>
 		<handlers:Item Key="item0598" Value="霸王之证"/>
-		<handlers:Item Key="item0599" Value="调查团票Ｇ"/>
+		<handlers:Item Key="item0599" Value="调查团票·大"/>
 		<handlers:Item Key="item059A" Value="猛牛龙硬币"/>
 		<handlers:Item Key="item059B" Value="浮空龙硬币"/>
 		<handlers:Item Key="item059C" Value="迅龙硬币"/>
@@ -1496,7 +1496,7 @@
 		<handlers:Item Key="item05BC" Value="掘土毛吉"/>
 		<handlers:Item Key="item05BD" Value="茸茸毛吉"/>
 		<handlers:Item Key="item05BE" Value="刺针毛吉"/>
-		<handlers:Item Key="item05BF" Value="Item 1471"/>
+		<handlers:Item Key="item05BF" Value="火爆毛吉"/>
 		<handlers:Item Key="item05C0" Value="Item 1472"/>
 		<handlers:Item Key="item05C1" Value="上等玻璃异形鱼"/>
 		<handlers:Item Key="item05C2" Value="Item 1474"/>
@@ -1509,29 +1509,29 @@
 		<handlers:Item Key="item05C9" Value="布制的窗帘【小】"/>
 		<handlers:Item Key="item05CA" Value="毛皮的窗帘【小】"/>
 		<handlers:Item Key="item05CB" Value="典雅的窗帘【小】"/>
-		<handlers:Item Key="item05CC" Value="Item 1484"/>
+		<handlers:Item Key="item05CC" Value="可爱的窗帘【小】"/>
 		<handlers:Item Key="item05CD" Value="布制的窗帘【大】"/>
 		<handlers:Item Key="item05CE" Value="毛皮的窗帘【大】"/>
 		<handlers:Item Key="item05CF" Value="典雅的窗帘【大】"/>
-		<handlers:Item Key="item05D0" Value="Item 1488"/>
+		<handlers:Item Key="item05D0" Value="可爱的窗帘【大】"/>
 		<handlers:Item Key="item05D1" Value="怀旧的沙发"/>
 		<handlers:Item Key="item05D2" Value="Item 1490"/>
 		<handlers:Item Key="item05D3" Value="高级沙发"/>
 		<handlers:Item Key="item05D4" Value="典雅的沙发"/>
-		<handlers:Item Key="item05D5" Value="Item 1493"/>
+		<handlers:Item Key="item05D5" Value="可爱的沙发"/>
 		<handlers:Item Key="item05D6" Value="乡村风格的床铺"/>
 		<handlers:Item Key="item05D7" Value="怀旧的床铺"/>
 		<handlers:Item Key="item05D8" Value="高级床铺"/>
-		<handlers:Item Key="item05D9" Value="Item 1497"/>
+		<handlers:Item Key="item05D9" Value="可爱的床铺"/>
 		<handlers:Item Key="item05DA" Value="怀旧的桌子"/>
 		<handlers:Item Key="item05DB" Value="高级桌子"/>
 		<handlers:Item Key="item05DC" Value="典雅的桌子"/>
-		<handlers:Item Key="item05DD" Value="Item 1501"/>
+		<handlers:Item Key="item05DD" Value="可爱的桌子"/>
 		<handlers:Item Key="item05DE" Value="野生风格的椅子"/>
 		<handlers:Item Key="item05DF" Value="怀旧的椅子"/>
 		<handlers:Item Key="item05E0" Value="高级椅子"/>
 		<handlers:Item Key="item05E1" Value="典雅的椅子"/>
-		<handlers:Item Key="item05E2" Value="Item 1506"/>
+		<handlers:Item Key="item05E2" Value="可爱的椅子"/>
 		<handlers:Item Key="item05E3" Value="肉多多料理"/>
 		<handlers:Item Key="item05E4" Value="派对组合餐"/>
 		<handlers:Item Key="item05E5" Value="热带午餐"/>
@@ -1539,7 +1539,7 @@
 		<handlers:Item Key="item05E7" Value="猎人早午餐"/>
 		<handlers:Item Key="item05E8" Value="怀旧的矮柜"/>
 		<handlers:Item Key="item05E9" Value="高级矮柜"/>
-		<handlers:Item Key="item05EA" Value="Item 1514"/>
+		<handlers:Item Key="item05EA" Value="可爱的矮柜"/>
 		<handlers:Item Key="item05EB" Value="永霜冻土的植物１"/>
 		<handlers:Item Key="item05EC" Value="永霜冻土的植物２"/>
 		<handlers:Item Key="item05ED" Value="Item 1517"/>
@@ -1553,9 +1553,9 @@
 		<handlers:Item Key="item05F5" Value="Item 1525"/>
 		<handlers:Item Key="item05F6" Value="大蚁冢荒地的植物１"/>
 		<handlers:Item Key="item05F7" Value="古代树森林的植物２"/>
-		<handlers:Item Key="item05F8" Value="Item 1528"/>
+		<handlers:Item Key="item05F8" Value="瘴气之谷的植物1"/>
 		<handlers:Item Key="item05F9" Value="Item 1529"/>
-		<handlers:Item Key="item05FA" Value="质朴的壶子"/>
+		<handlers:Item Key="item05FA" Value="质朴的壶"/>
 		<handlers:Item Key="item05FB" Value="德特尔玩偶"/>
 		<handlers:Item Key="item05FC" Value="奇面族玩偶"/>
 		<handlers:Item Key="item05FD" Value="兽缠族玩偶"/>
@@ -1581,7 +1581,7 @@
 		<handlers:Item Key="item0611" Value="质朴的土锅"/>
 		<handlers:Item Key="item0612" Value="锅具组"/>
 		<handlers:Item Key="item0613" Value="Item 1555"/>
-		<handlers:Item Key="item0614" Value="盘绘组【大】"/>
+		<handlers:Item Key="item0614" Value="装饰盘套装【大】"/>
 		<handlers:Item Key="item0615" Value="装有矿石的篮子"/>
 		<handlers:Item Key="item0616" Value="Item 1558"/>
 		<handlers:Item Key="item0617" Value="急救箱"/>
@@ -1607,11 +1607,11 @@
 		<handlers:Item Key="item062B" Value="狩猎贡献之证【献身】"/>
 		<handlers:Item Key="item062C" Value="狩猎贡献之证【武勋】"/>
 		<handlers:Item Key="item062D" Value="小金鱼平衡吊饰"/>
-		<handlers:Item Key="item062E" Value="竹筴鱼吊饰"/>
+		<handlers:Item Key="item062E" Value="磨刀鲹鱼吊饰"/>
 		<handlers:Item Key="item062F" Value="旗鱼平衡吊饰"/>
-		<handlers:Item Key="item0630" Value="Item 1584"/>
-		<handlers:Item Key="item0631" Value="Item 1585"/>
-		<handlers:Item Key="item0632" Value="Item 1586"/>
+		<handlers:Item Key="item0630" Value="回忆吊饰"/>
+		<handlers:Item Key="item0631" Value="国王吊饰"/>
+		<handlers:Item Key="item0632" Value="圆点吊饰"/>
 		<handlers:Item Key="item0633" Value="木桶吊饰"/>
 		<handlers:Item Key="item0634" Value="鱼吊饰套组"/>
 		<handlers:Item Key="item0635" Value="鱼吊饰【赤】"/>
@@ -1632,33 +1632,33 @@
 		<handlers:Item Key="item0644" Value="Item 1604"/>
 		<handlers:Item Key="item0645" Value="怀旧的长桌"/>
 		<handlers:Item Key="item0646" Value="高级长桌"/>
-		<handlers:Item Key="item0647" Value="Item 1607"/>
+		<handlers:Item Key="item0647" Value="可爱的长桌"/>
 		<handlers:Item Key="item0648" Value="怀旧的柜架"/>
 		<handlers:Item Key="item0649" Value="充满知性的柜子"/>
 		<handlers:Item Key="item064A" Value="放满物品的柜子"/>
 		<handlers:Item Key="item064B" Value="高级柜子"/>
 		<handlers:Item Key="item064C" Value="典雅的柜子"/>
-		<handlers:Item Key="item064D" Value="Item 1613"/>
-		<handlers:Item Key="item064E" Value="Item 1614"/>
+		<handlers:Item Key="item064D" Value="可爱的柜子"/>
+		<handlers:Item Key="item064E" Value="点唱机"/>
 		<handlers:Item Key="item064F" Value="怀旧的灯具"/>
 		<handlers:Item Key="item0650" Value="耐用的灯具"/>
 		<handlers:Item Key="item0651" Value="高级灯具"/>
-		<handlers:Item Key="item0652" Value="Item 1618"/>
-		<handlers:Item Key="item0653" Value="质朴灯具"/>
+		<handlers:Item Key="item0652" Value="可爱的灯具"/>
+		<handlers:Item Key="item0653" Value="简约灯具"/>
 		<handlers:Item Key="item0654" Value="Item 1620"/>
 		<handlers:Item Key="item0655" Value="Item 1621"/>
 		<handlers:Item Key="item0656" Value="Item 1622"/>
 		<handlers:Item Key="item0657" Value="怀旧的架子"/>
 		<handlers:Item Key="item0658" Value="高级橱子"/>
-		<handlers:Item Key="item0659" Value="Item 1625"/>
+		<handlers:Item Key="item0659" Value="可爱的橱子"/>
 		<handlers:Item Key="item065A" Value="质朴的壁挂墙架【大】"/>
 		<handlers:Item Key="item065B" Value="高级壁挂墙架【大】"/>
-		<handlers:Item Key="item065C" Value="Item 1628"/>
+		<handlers:Item Key="item065C" Value="可爱的壁挂墙架【大】"/>
 		<handlers:Item Key="item065D" Value="质朴的壁挂墙架【小】"/>
 		<handlers:Item Key="item065E" Value="高级壁挂墙架【小】"/>
-		<handlers:Item Key="item065F" Value="Item 1631"/>
-		<handlers:Item Key="item0660" Value="Item 1632"/>
-		<handlers:Item Key="item0661" Value="Item 1633"/>
+		<handlers:Item Key="item065F" Value="可爱的壁挂墙架【小】"/>
+		<handlers:Item Key="item0660" Value="典雅壁饰【赤】"/>
+		<handlers:Item Key="item0661" Value="典雅壁饰【蓝】"/>
 		<handlers:Item Key="item0662" Value="画作【熔山龙】"/>
 		<handlers:Item Key="item0663" Value="布质壁饰"/>
 		<handlers:Item Key="item0664" Value="毛皮壁饰"/>
@@ -1675,18 +1675,18 @@
 		<handlers:Item Key="item066F" Value="画作【永霜冻土】"/>
 		<handlers:Item Key="item0670" Value="桌上的文件"/>
 		<handlers:Item Key="item0671" Value="高级茶具组"/>
-		<handlers:Item Key="item0672" Value="Item 1650"/>
+		<handlers:Item Key="item0672" Value="可爱的桌上摆饰"/>
 		<handlers:Item Key="item0673" Value="地图"/>
 		<handlers:Item Key="item0674" Value="调合器具组"/>
 		<handlers:Item Key="item0675" Value="面包工具组"/>
 		<handlers:Item Key="item0676" Value="工具组"/>
 		<handlers:Item Key="item0677" Value="怀旧的地毯（1楼）"/>
 		<handlers:Item Key="item0678" Value="高级的地毯（1楼）"/>
-		<handlers:Item Key="item0679" Value="Item 1657"/>
+		<handlers:Item Key="item0679" Value="可爱的地毯（1楼）"/>
 		<handlers:Item Key="item067A" Value="毛皮的地毯（1楼）"/>
 		<handlers:Item Key="item067B" Value="怀旧的地毯（2楼）"/>
 		<handlers:Item Key="item067C" Value="高级的地毯（2楼）"/>
-		<handlers:Item Key="item067D" Value="Item 1661"/>
+		<handlers:Item Key="item067D" Value="可爱的地毯（2楼）"/>
 		<handlers:Item Key="item067E" Value="毛皮的地毯（2楼）"/>
 		<handlers:Item Key="item067F" Value="提灯"/>
 		<handlers:Item Key="item0680" Value="Item 1664"/>
@@ -1730,15 +1730,15 @@
 		<handlers:Item Key="item06A6" Value="Item 1702"/>
 		<handlers:Item Key="item06A7" Value="Item 1703"/>
 		<handlers:Item Key="item06A8" Value="Item 1704"/>
-		<handlers:Item Key="item06A9" Value="Item 1705"/>
-		<handlers:Item Key="item06AA" Value="Item 1706"/>
+		<handlers:Item Key="item06A9" Value="格子图案【彩】"/>
+		<handlers:Item Key="item06AA" Value="格子图案【绿】"/>
 		<handlers:Item Key="item06AB" Value="随从图案【桃】"/>
 		<handlers:Item Key="item06AC" Value="随从图案【茶】"/>
 		<handlers:Item Key="item06AD" Value="Item 1709"/>
 		<handlers:Item Key="item06AE" Value="Item 1710"/>
-		<handlers:Item Key="item06AF" Value="Item 1711"/>
-		<handlers:Item Key="item06B0" Value="Item 1712"/>
-		<handlers:Item Key="item06B1" Value="Item 1713"/>
+		<handlers:Item Key="item06AF" Value="生命图案·小【白】"/>
+		<handlers:Item Key="item06B0" Value="生命图案·小【蓝】"/>
+		<handlers:Item Key="item06B1" Value="生命图案·小【桃】"/>
 		<handlers:Item Key="item06B2" Value="Item 1714"/>
 		<handlers:Item Key="item06B3" Value="Item 1715"/>
 		<handlers:Item Key="item06B4" Value="Item 1716"/>
@@ -1755,30 +1755,30 @@
 		<handlers:Item Key="item06BF" Value="石"/>
 		<handlers:Item Key="item06C0" Value="怀旧的房间"/>
 		<handlers:Item Key="item06C1" Value="传统的房间"/>
-		<handlers:Item Key="item06C2" Value="Item 1730"/>
-		<handlers:Item Key="item06C3" Value="Item 1731"/>
+		<handlers:Item Key="item06C2" Value="典雅的房间"/>
+		<handlers:Item Key="item06C3" Value="可爱的房间"/>
 		<handlers:Item Key="item06C4" Value="Item 1732"/>
 		<handlers:Item Key="item06C5" Value="Item 1733"/>
 		<handlers:Item Key="item06C6" Value="木质地板"/>
 		<handlers:Item Key="item06C7" Value="洗炼的木质地板"/>
 		<handlers:Item Key="item06C8" Value="质朴的石砖地板"/>
-		<handlers:Item Key="item06C9" Value="Item 1737"/>
-		<handlers:Item Key="item06CA" Value="Item 1738"/>
+		<handlers:Item Key="item06C9" Value="典雅图案地板【赤】"/>
+		<handlers:Item Key="item06CA" Value="高级石砖地板"/>
 		<handlers:Item Key="item06CB" Value="大理石砖地板"/>
-		<handlers:Item Key="item06CC" Value="Item 1740"/>
-		<handlers:Item Key="item06CD" Value="Item 1741"/>
-		<handlers:Item Key="item06CE" Value="Item 1742"/>
+		<handlers:Item Key="item06CC" Value="可爱图案地板【桃】"/>
+		<handlers:Item Key="item06CD" Value="磁砖地板【茶】"/>
+		<handlers:Item Key="item06CE" Value="大理石砖地板【黑】"/>
 		<handlers:Item Key="item06CF" Value="洗炼的石砖地板"/>
 		<handlers:Item Key="item06D0" Value="木质地面"/>
 		<handlers:Item Key="item06D1" Value="洗炼的木质壁面"/>
 		<handlers:Item Key="item06D2" Value="质朴的石头壁面"/>
-		<handlers:Item Key="item06D3" Value="Item 1747"/>
-		<handlers:Item Key="item06D4" Value="Item 1748"/>
+		<handlers:Item Key="item06D3" Value="植物图案壁面"/>
+		<handlers:Item Key="item06D4" Value="高级木雕壁面"/>
 		<handlers:Item Key="item06D5" Value="质朴的灰泥壁面"/>
-		<handlers:Item Key="item06D6" Value="Item 1750"/>
-		<handlers:Item Key="item06D7" Value="Item 1751"/>
-		<handlers:Item Key="item06D8" Value="Item 1752"/>
-		<handlers:Item Key="item06D9" Value="Item 1753"/>
+		<handlers:Item Key="item06D6" Value="条纹壁面【蓝】"/>
+		<handlers:Item Key="item06D7" Value="磁砖壁面【灯】"/>
+		<handlers:Item Key="item06D8" Value="典雅图案壁面"/>
+		<handlers:Item Key="item06D9" Value="大理石壁面"/>
 		<handlers:Item Key="item06DA" Value="典雅的灰泥壁面"/>
 		<handlers:Item Key="item06DB" Value="木质地板【白】"/>
 		<handlers:Item Key="item06DC" Value="木质地板【绿】"/>
@@ -1836,10 +1836,10 @@
 		<handlers:Item Key="item0710" Value="瘴气的结晶"/>
 		<handlers:Item Key="item0711" Value="黄昏的结晶"/>
 		<handlers:Item Key="item0712" Value="引导的结晶【瘴气】"/>
-		<handlers:Item Key="item0713" Value="Item 1811"/>
-		<handlers:Item Key="item0714" Value="Item 1812"/>
-		<handlers:Item Key="item0715" Value="Item 1813"/>
-		<handlers:Item Key="item0716" Value="Item 1814"/>
+		<handlers:Item Key="item0713" Value="溶化的结晶"/>
+		<handlers:Item Key="item0714" Value="熔岩的结晶"/>
+		<handlers:Item Key="item0715" Value="业火的结晶"/>
+		<handlers:Item Key="item0716" Value="引导的结晶【熔岩】"/>
 		<handlers:Item Key="item0717" Value="Item 1815"/>
 		<handlers:Item Key="item0718" Value="Item 1816"/>
 		<handlers:Item Key="item0719" Value="Item 1817"/>
@@ -1860,10 +1860,10 @@
 		<handlers:Item Key="item0728" Value="吐放瘴气的狂骨"/>
 		<handlers:Item Key="item0729" Value="龙脉侵扰的狂骨"/>
 		<handlers:Item Key="item072A" Value="引导的龙骨【瘴气】"/>
-		<handlers:Item Key="item072B" Value="Item 1835"/>
-		<handlers:Item Key="item072C" Value="Item 1836"/>
-		<handlers:Item Key="item072D" Value="Item 1837"/>
-		<handlers:Item Key="item072E" Value="Item 1838"/>
+		<handlers:Item Key="item072B" Value="炽热蛮骨"/>
+		<handlers:Item Key="item072C" Value="灼热蛮骨"/>
+		<handlers:Item Key="item072D" Value="龙脉焦灼的蛮骨"/>
+		<handlers:Item Key="item072E" Value="引导的龙骨【熔岩】"/>
 		<handlers:Item Key="item072F" Value="Item 1839"/>
 		<handlers:Item Key="item0730" Value="Item 1840"/>
 		<handlers:Item Key="item0731" Value="Item 1841"/>
@@ -1917,12 +1917,12 @@
 		<handlers:Item Key="item0761" Value="Item 1889"/>
 		<handlers:Item Key="item0762" Value="墨色的重油壳"/>
 		<handlers:Item Key="item0763" Value="历战的重油壳"/>
-		<handlers:Item Key="item0764" Value="Item 1892"/>
+		<handlers:Item Key="item0764" Value="重量级的大颚"/>
 		<handlers:Item Key="item0765" Value="Item 1893"/>
-		<handlers:Item Key="item0766" Value="Item 1894"/>
-		<handlers:Item Key="item0767" Value="Item 1895"/>
-		<handlers:Item Key="item0768" Value="Item 1896"/>
-		<handlers:Item Key="item0769" Value="Item 1897"/>
+		<handlers:Item Key="item0766" Value="灼热的熔岩鳍"/>
+		<handlers:Item Key="item0767" Value="历战的熔岩鳍"/>
+		<handlers:Item Key="item0768" Value="金属质地的耐热壳"/>
+		<handlers:Item Key="item0769" Value="历战的耐热壳"/>
 		<handlers:Item Key="item076A" Value="Item 1898"/>
 		<handlers:Item Key="item076B" Value="Item 1899"/>
 		<handlers:Item Key="item076C" Value="灾祸银狼毛"/>
@@ -1949,16 +1949,16 @@
 		<handlers:Item Key="item0781" Value="历战的断剑尾"/>
 		<handlers:Item Key="item0782" Value="明锐的斩铁尾"/>
 		<handlers:Item Key="item0783" Value="历战的斩铁尾"/>
-		<handlers:Item Key="item0784" Value="Item 1924"/>
-		<handlers:Item Key="item0785" Value="Item 1925"/>
+		<handlers:Item Key="item0784" Value="亮泽的黑曜甲"/>
+		<handlers:Item Key="item0785" Value="历战的黑曜甲"/>
 		<handlers:Item Key="item0786" Value="强者的龙颚"/>
 		<handlers:Item Key="item0787" Value="历战的龙颚"/>
 		<handlers:Item Key="item0788" Value="战栗的黑龙颚"/>
 		<handlers:Item Key="item0789" Value="历战的黑龙颚"/>
 		<handlers:Item Key="item078A" Value="满溢雷电壳"/>
 		<handlers:Item Key="item078B" Value="历战的雷电壳"/>
-		<handlers:Item Key="item078C" Value="Item 1932"/>
-		<handlers:Item Key="item078D" Value="Item 1933"/>
+		<handlers:Item Key="item078C" Value="红莲的爆鳞"/>
+		<handlers:Item Key="item078D" Value="历战的爆鳞"/>
 		<handlers:Item Key="item078E" Value="染血漆黑皮"/>
 		<handlers:Item Key="item078F" Value="历战的漆黑皮"/>
 		<handlers:Item Key="item0790" Value="庄严的苍角"/>
@@ -1978,13 +1978,13 @@
 		<handlers:Item Key="item079E" Value="生者必灭的大刚角"/>
 		<handlers:Item Key="item079F" Value="Item 1951"/>
 		<handlers:Item Key="item07A0" Value="月光的龙鳞"/>
-		<handlers:Item Key="item07A1" Value="Item 1953"/>
+		<handlers:Item Key="item07A1" Value="历战的龙鳞【金】"/>
 		<handlers:Item Key="item07A2" Value="烈日的龙鳞"/>
-        <handlers:Item Key="item07A3" Value="Tempered Silver Scale"/>
+        <handlers:Item Key="item07A3" Value="历战的龙鳞【银】"/>
 		<handlers:Item Key="item07A4" Value="Item 1956"/>
 		<handlers:Item Key="item07A5" Value="Item 1957"/>
-        <handlers:Item Key="item07A6" Value="Bloodthirsty Glimmerpelt"/>
-        <handlers:Item Key="item07A7" Value="Tempered Glimmerpelt"/>
+        <handlers:Item Key="item07A6" Value="充满斗气的煌毛"/>
+        <handlers:Item Key="item07A7" Value="历战的煌毛"/>
 		<handlers:Item Key="item07A8" Value="Item 1960"/>
 		<handlers:Item Key="item07A9" Value="Item 1961"/>
 		<handlers:Item Key="item07AA" Value="Item 1962"/>
@@ -2179,7 +2179,7 @@
 		<handlers:Item Key="item0867" Value="缩短·加护珠【４】"/>
 		<handlers:Item Key="item0868" Value="昂扬·加护珠【４】"/>
 		<handlers:Item Key="item0869" Value="重击·加护珠【４】"/>
-		<handlers:Item Key="item086A" Value="ＫＯ·加护珠【４】"/>
+		<handlers:Item Key="item086A" Value="击晕·加护珠【４】"/>
 		<handlers:Item Key="item086B" Value="底力·加护珠【４】"/>
 		<handlers:Item Key="item086C" Value="防风·加护珠【４】"/>
 		<handlers:Item Key="item086D" Value="拔刀·加护珠【４】"/>
@@ -2199,7 +2199,7 @@
 		<handlers:Item Key="item087B" Value="缩短·治愈珠【４】"/>
 		<handlers:Item Key="item087C" Value="昂扬·治愈珠【４】"/>
 		<handlers:Item Key="item087D" Value="重击·治愈珠【４】"/>
-		<handlers:Item Key="item087E" Value="ＫＯ·治愈珠【４】"/>
+		<handlers:Item Key="item087E" Value="击晕·治愈珠【４】"/>
 		<handlers:Item Key="item087F" Value="底力·治愈珠【４】"/>
 		<handlers:Item Key="item0880" Value="防风·治愈珠【４】"/>
 		<handlers:Item Key="item0881" Value="拔刀·治愈珠【４】"/>
@@ -2219,7 +2219,7 @@
 		<handlers:Item Key="item088F" Value="缩短·体力珠【４】"/>
 		<handlers:Item Key="item0890" Value="昂扬·体力珠【４】"/>
 		<handlers:Item Key="item0891" Value="重击·体力珠【４】"/>
-		<handlers:Item Key="item0892" Value="ＫＯ·体力珠【４】"/>
+		<handlers:Item Key="item0892" Value="击晕·体力珠【４】"/>
 		<handlers:Item Key="item0893" Value="底力·体力珠【４】"/>
 		<handlers:Item Key="item0894" Value="防风·体力珠【４】"/>
 		<handlers:Item Key="item0895" Value="拔刀·体力珠【４】"/>
@@ -2239,7 +2239,7 @@
 		<handlers:Item Key="item08A3" Value="缩短·整备珠【４】"/>
 		<handlers:Item Key="item08A4" Value="昂扬·整备珠【４】"/>
 		<handlers:Item Key="item08A5" Value="重击·整备珠【４】"/>
-		<handlers:Item Key="item08A6" Value="ＫＯ·整备珠【４】"/>
+		<handlers:Item Key="item08A6" Value="击晕·整备珠【４】"/>
 		<handlers:Item Key="item08A7" Value="底力·整备珠【４】"/>
 		<handlers:Item Key="item08A8" Value="防风·整备珠【４】"/>
 		<handlers:Item Key="item08A9" Value="拔刀·整备珠【４】"/>
@@ -2259,7 +2259,7 @@
 		<handlers:Item Key="item08B7" Value="缩短·体术珠【４】"/>
 		<handlers:Item Key="item08B8" Value="昂扬·体术珠【４】"/>
 		<handlers:Item Key="item08B9" Value="重击·体术珠【４】"/>
-		<handlers:Item Key="item08BA" Value="ＫＯ·体术珠【４】"/>
+		<handlers:Item Key="item08BA" Value="击晕·体术珠【４】"/>
 		<handlers:Item Key="item08BB" Value="底力·体术珠【４】"/>
 		<handlers:Item Key="item08BC" Value="防风·体术珠【４】"/>
 		<handlers:Item Key="item08BD" Value="拔刀·体术珠【４】"/>
@@ -2279,7 +2279,7 @@
 		<handlers:Item Key="item08CB" Value="缩短·回避珠【４】"/>
 		<handlers:Item Key="item08CC" Value="昂扬·回避珠【４】"/>
 		<handlers:Item Key="item08CD" Value="重击·回避珠【４】"/>
-		<handlers:Item Key="item08CE" Value="ＫＯ·回避珠【４】"/>
+		<handlers:Item Key="item08CE" Value="击晕·回避珠【４】"/>
 		<handlers:Item Key="item08CF" Value="底力·回避珠【４】"/>
 		<handlers:Item Key="item08D0" Value="防风·回避珠【４】"/>
 		<handlers:Item Key="item08D1" Value="拔刀·回避珠【４】"/>
@@ -2373,22 +2373,22 @@
 		<handlers:Item Key="item0929" Value="Item 2345"/>
 		<handlers:Item Key="item092A" Value="Item 2346"/>
 		<handlers:Item Key="item092B" Value="Item 2347"/>
-		<handlers:Item Key="item092C" Value="Item 2348"/>
-		<handlers:Item Key="item092D" Value="Item 2349"/>
-		<handlers:Item Key="item092E" Value="Item 2350"/>
-		<handlers:Item Key="item092F" Value="Item 2351"/>
-		<handlers:Item Key="item0930" Value="Item 2352"/>
-		<handlers:Item Key="item0931" Value="Item 2353"/>
-		<handlers:Item Key="item0932" Value="Item 2354"/>
-		<handlers:Item Key="item0933" Value="Item 2355"/>
-		<handlers:Item Key="item0934" Value="Item 2356"/>
-		<handlers:Item Key="item0935" Value="Item 2357"/>
-		<handlers:Item Key="item0936" Value="Item 2358"/>
-		<handlers:Item Key="item0937" Value="Item 2359"/>
-		<handlers:Item Key="item0938" Value="Item 2360"/>
-		<handlers:Item Key="item0939" Value="Item 2361"/>
-		<handlers:Item Key="item093A" Value="Item 2362"/>
-		<handlers:Item Key="item093B" Value="Item 2363"/>
+		<handlers:Item Key="item092C" Value="The Comforts of Home"/>
+		<handlers:Item Key="item092D" Value="Preparing for the Journey - Living Quarters"/>
+		<handlers:Item Key="item092E" Value="Dreams of Tomorrow - Private Quarters"/>
+		<handlers:Item Key="item092F" Value="Gorgeous Days - Private Suite"/>
+		<handlers:Item Key="item0930" Value="A Brand New Day"/>
+		<handlers:Item Key="item0931" Value="The Gracious Villagers"/>
+		<handlers:Item Key="item0932" Value="Moga on the Sea"/>
+		<handlers:Item Key="item0933" Value="Harbor of the Sun - Val Habar"/>
+		<handlers:Item Key="item0934" Value="Proof of a Hero - Monster Hunter: World Version"/>
+		<handlers:Item Key="item0935" Value="Guidance"/>
+		<handlers:Item Key="item0936" Value="Pride of a Nameless Hunter"/>
+		<handlers:Item Key="item0937" Value="Succession of Light"/>
+		<handlers:Item Key="item0938" Value="Tales Spun through Song"/>
+		<handlers:Item Key="item0939" Value="Saudade"/>
+		<handlers:Item Key="item093A" Value="Save Room"/>
+		<handlers:Item Key="item093B" Value="Black Impact"/>
 		<handlers:Item Key="item093C" Value="Item 2364"/>
 		<handlers:Item Key="item093D" Value="Item 2365"/>
 		<handlers:Item Key="item093E" Value="Item 2366"/>
@@ -2435,7 +2435,7 @@
 		<handlers:Item Key="item0967" Value="Item 2407"/>
 		<handlers:Item Key="item0968" Value="Item 2408"/>
 		<handlers:Item Key="item0969" Value="Item 2409"/>
-		<handlers:Item Key="item096A" Value="Item 2410"/>
+		<handlers:Item Key="item096A" Value="梅拉露玩偶"/>
 		<handlers:Item Key="item096B" Value="Item 2411"/>
 		<handlers:Item Key="item096C" Value="Item 2412"/>
 		<handlers:Item Key="item096D" Value="梅花盆栽"/>
@@ -2448,7 +2448,7 @@
 		<handlers:Item Key="item0974" Value="Item 2420"/>
 		<handlers:Item Key="item0975" Value="Item 2421"/>
 		<handlers:Item Key="item0976" Value="Item 2422"/>
-		<handlers:Item Key="item0977" Value="Item 2423"/>
+		<handlers:Item Key="item0977" Value="优雅茶具组"/>
 		<handlers:Item Key="item0978" Value="Item 2424"/>
 		<handlers:Item Key="item0979" Value="Item 2425"/>
 		<handlers:Item Key="item097A" Value="Item 2426"/>
@@ -2462,21 +2462,21 @@
 		<handlers:Item Key="item0982" Value="Item 2434"/>
 		<handlers:Item Key="item0983" Value="Item 2435"/>
 		<handlers:Item Key="item0984" Value="Item 2436"/>
-		<handlers:Item Key="item0985" Value="Item 2437"/>
+		<handlers:Item Key="item0985" Value="画作【艾露猫2】"/>
 		<handlers:Item Key="item0986" Value="Item 2438"/>
 		<handlers:Item Key="item0987" Value="Item 2439"/>
-		<handlers:Item Key="item0988" Value="Item 2440"/>
+		<handlers:Item Key="item0988" Value="画作【狩猎的空闲时光】"/>
 		<handlers:Item Key="item0989" Value="Item 2441"/>
-		<handlers:Item Key="item098A" Value="Item 2442"/>
+		<handlers:Item Key="item098A" Value="画作【水壶与水果】"/>
 		<handlers:Item Key="item098B" Value="Item 2443"/>
-		<handlers:Item Key="item098C" Value="Item 2444"/>
+		<handlers:Item Key="item098C" Value="怀旧的灯具【黄】"/>
 		<handlers:Item Key="item098D" Value="Item 2445"/>
 		<handlers:Item Key="item098E" Value="Item 2446"/>
 		<handlers:Item Key="item098F" Value="Item 2447"/>
 		<handlers:Item Key="item0990" Value="Item 2448"/>
 		<handlers:Item Key="item0991" Value="Item 2449"/>
-		<handlers:Item Key="item0992" Value="Item 2450"/>
-		<handlers:Item Key="item0993" Value="Item 2451"/>
+		<handlers:Item Key="item0992" Value="质朴灯具【黄】"/>
+		<handlers:Item Key="item0993" Value="质朴灯具【白】"/>
 		<handlers:Item Key="item0994" Value="Item 2452"/>
 		<handlers:Item Key="item0995" Value="Item 2453"/>
 		<handlers:Item Key="item0996" Value="Item 2454"/>
@@ -2493,8 +2493,8 @@
 		<handlers:Item Key="item09A1" Value="Item 2465"/>
 		<handlers:Item Key="item09A2" Value="Item 2466"/>
 		<handlers:Item Key="item09A3" Value="Item 2467"/>
-		<handlers:Item Key="item09A4" Value="Item 2468"/>
-		<handlers:Item Key="item09A5" Value="Item 2469"/>
+		<handlers:Item Key="item09A4" Value="画作【生命之森】"/>
+		<handlers:Item Key="item09A5" Value="画作【星辰】"/>
 		<handlers:Item Key="item09A6" Value="Item 2470"/>
 		<handlers:Item Key="item09A7" Value="Item 2471"/>
 		<handlers:Item Key="item09A8" Value="Item 2472"/>
@@ -2505,64 +2505,64 @@
 		<handlers:Item Key="item09AD" Value="Item 2477"/>
 		<handlers:Item Key="item09AE" Value="Item 2478"/>
 		<handlers:Item Key="item09AF" Value="Item 2479"/>
-		<handlers:Item Key="item09B0" Value="Item 2480"/>
+		<handlers:Item Key="item09B0" Value="石像【火龙】"/>
 		<handlers:Item Key="item09B1" Value="Item 2481"/>
 		<handlers:Item Key="item09B2" Value="Item 2482"/>
-		<handlers:Item Key="item09B3" Value="Item 2483"/>
-		<handlers:Item Key="item09B4" Value="Item 2484"/>
-		<handlers:Item Key="item09B5" Value="Item 2485"/>
-		<handlers:Item Key="item09B6" Value="Item 2486"/>
+		<handlers:Item Key="item09B3" Value="巨大的艾露猫玩偶"/>
+		<handlers:Item Key="item09B4" Value="巨大的噗吱猪玩偶"/>
+		<handlers:Item Key="item09B5" Value="巨大的德特尔玩偶"/>
+		<handlers:Item Key="item09B6" Value="武具的展示台"/>
 		<handlers:Item Key="item09B7" Value="Item 2487"/>
 		<handlers:Item Key="item09B8" Value="Item 2488"/>
-		<handlers:Item Key="item09B9" Value="Item 2489"/>
+		<handlers:Item Key="item09B9" Value="导虫的虫笼"/>
 		<handlers:Item Key="item09BA" Value="Item 2490"/>
-		<handlers:Item Key="item09BB" Value="Item 2491"/>
-		<handlers:Item Key="item09BC" Value="Item 2492"/>
-		<handlers:Item Key="item09BD" Value="Item 2493"/>
-		<handlers:Item Key="item09BE" Value="Item 2494"/>
-		<handlers:Item Key="item09BF" Value="Item 2495"/>
-		<handlers:Item Key="item09C0" Value="Item 2496"/>
-		<handlers:Item Key="item09C1" Value="Item 2497"/>
-		<handlers:Item Key="item09C2" Value="Item 2498"/>
-		<handlers:Item Key="item09C3" Value="Item 2499"/>
+		<handlers:Item Key="item09BB" Value="模型【贼龙】"/>
+		<handlers:Item Key="item09BC" Value="模型【灭尽龙】"/>
+		<handlers:Item Key="item09BD" Value="模型【钢龙】"/>
+		<handlers:Item Key="item09BE" Value="模型【岩贼龙】"/>
+		<handlers:Item Key="item09BF" Value="模型【火龙】"/>
+		<handlers:Item Key="item09C0" Value="模型【蛮颚龙】"/>
+		<handlers:Item Key="item09C1" Value="典雅图案地板【蓝】"/>
+		<handlers:Item Key="item09C2" Value="典雅图案地板【绿】"/>
+		<handlers:Item Key="item09C3" Value="典雅图案地板【白】"/>
 		<handlers:Item Key="item09C4" Value="Item 2500"/>
-		<handlers:Item Key="item09C5" Value="Item 2501"/>
-		<handlers:Item Key="item09C6" Value="Item 2502"/>
-		<handlers:Item Key="item09C7" Value="Item 2503"/>
-		<handlers:Item Key="item09C8" Value="Item 2504"/>
+		<handlers:Item Key="item09C5" Value="可爱图案地板【蓝】"/>
+		<handlers:Item Key="item09C6" Value="可爱图案地板【绿】"/>
+		<handlers:Item Key="item09C7" Value="可爱图案地板【灰】"/>
+		<handlers:Item Key="item09C8" Value="高级木质地板"/>
 		<handlers:Item Key="item09C9" Value="Item 2505"/>
 		<handlers:Item Key="item09CA" Value="Item 2506"/>
 		<handlers:Item Key="item09CB" Value="Item 2507"/>
 		<handlers:Item Key="item09CC" Value="Item 2508"/>
 		<handlers:Item Key="item09CD" Value="Item 2509"/>
-		<handlers:Item Key="item09CE" Value="Item 2510"/>
-		<handlers:Item Key="item09CF" Value="Item 2511"/>
-		<handlers:Item Key="item09D0" Value="Item 2512"/>
-		<handlers:Item Key="item09D1" Value="Item 2513"/>
-		<handlers:Item Key="item09D2" Value="Item 2514"/>
-		<handlers:Item Key="item09D3" Value="Item 2515"/>
-		<handlers:Item Key="item09D4" Value="Item 2516"/>
-		<handlers:Item Key="item09D5" Value="Item 2517"/>
-		<handlers:Item Key="item09D6" Value="Item 2518"/>
+		<handlers:Item Key="item09CE" Value="磁砖地板【蓝】"/>
+		<handlers:Item Key="item09CF" Value="磁砖地板【桃】"/>
+		<handlers:Item Key="item09D0" Value="磁砖地板【水】"/>
+		<handlers:Item Key="item09D1" Value="条纹壁面【桃】"/>
+		<handlers:Item Key="item09D2" Value="条纹壁面【灰】"/>
+		<handlers:Item Key="item09D3" Value="条纹壁面【黄】"/>
+		<handlers:Item Key="item09D4" Value="磁砖壁面【蓝】"/>
+		<handlers:Item Key="item09D5" Value="磁砖壁面【灰】"/>
+		<handlers:Item Key="item09D6" Value="磁砖壁面【水】"/>
 		<handlers:Item Key="item09D7" Value="Item 2519"/>
-		<handlers:Item Key="item09D8" Value="Item 2520"/>
-		<handlers:Item Key="item09D9" Value="Item 2521"/>
-		<handlers:Item Key="item09DA" Value="Item 2522"/>
+		<handlers:Item Key="item09D8" Value="高级图案的壁面【蓝】"/>
+		<handlers:Item Key="item09D9" Value="高级图案的壁面【赤】"/>
+		<handlers:Item Key="item09DA" Value="高级图案的壁面【绿】"/>
 		<handlers:Item Key="item09DB" Value="Item 2523"/>
 		<handlers:Item Key="item09DC" Value="Item 2524"/>
 		<handlers:Item Key="item09DD" Value="Item 2525"/>
 		<handlers:Item Key="item09DE" Value="Item 2526"/>
 		<handlers:Item Key="item09DF" Value="Item 2527"/>
-		<handlers:Item Key="item09E0" Value="Item 2528"/>
+		<handlers:Item Key="item09E0" Value="大理石壁面【灰】"/>
 		<handlers:Item Key="item09E1" Value="Item 2529"/>
 		<handlers:Item Key="item09E2" Value="万福料理组合"/>
 		<handlers:Item Key="item09E3" Value="高级料理拼盘"/>
 		<handlers:Item Key="item09E4" Value="Item 2532"/>
 		<handlers:Item Key="item09E5" Value="Item 2533"/>
-		<handlers:Item Key="item09E6" Value="Item 2534"/>
-		<handlers:Item Key="item09E7" Value="Item 2535"/>
-		<handlers:Item Key="item09E8" Value="Item 2536"/>
-		<handlers:Item Key="item09E9" Value="Item 2537"/>
+		<handlers:Item Key="item09E6" Value="模型【飞雷龙】"/>
+		<handlers:Item Key="item09E7" Value="模型【冰牙龙】"/>
+		<handlers:Item Key="item09E8" Value="模型【猛牛龙】"/>
+		<handlers:Item Key="item09E9" Value="模型【兽缠族】"/>
 		<handlers:Item Key="item09EA" Value="Item 2538"/>
 		<handlers:Item Key="item09EB" Value="Item 2539"/>
 		<handlers:Item Key="item09EC" Value="Item 2540"/>
@@ -2590,20 +2590,20 @@
 		<handlers:Item Key="item0A02" Value="Item 2562"/>
 		<handlers:Item Key="item0A03" Value="Item 2563"/>
 		<handlers:Item Key="item0A04" Value="Item 2564"/>
-        <handlers:Item Key="item0A05" Value="Grand Appreciation Figure"/>
+        <handlers:Item Key="item0A05" Value="模型【大感谢】"/>
 		<handlers:Item Key="item0A06" Value="Item 2566"/>
 		<handlers:Item Key="item0A07" Value="Item 2567"/>
-        <handlers:Item Key="item0A08" Value="(Room) Green Herb"/>
-        <handlers:Item Key="item0A09" Value="(Room) Red Herb"/>
-        <handlers:Item Key="item0A0A" Value="(Room) Blue Herb"/>
-        <handlers:Item Key="item0A0B" Value="First Aid Sprays"/>
-        <handlers:Item Key="item0A0C" Value="Mr. Raccoon"/>
-        <handlers:Item Key="item0A0D" Value="Creepy Rugs (1F)"/>
-        <handlers:Item Key="item0A0E" Value="Creepy Rugs (2F)"/>
-        <handlers:Item Key="item0A0F" Value="S.T.A.R.S. Plaque Set 1"/>
-        <handlers:Item Key="item0A10" Value="S.T.A.R.S. Plaque Set 2"/>
-        <handlers:Item Key="item0A11" Value="Typewriter"/>
-        <handlers:Item Key="item0A12" Value="(Room) Item Box"/>
+        <handlers:Item Key="item0A08" Value="绿色药草"/>
+        <handlers:Item Key="item0A09" Value="红色药草"/>
+        <handlers:Item Key="item0A0A" Value="蓝色药草"/>
+        <handlers:Item Key="item0A0B" Value="急救喷雾"/>
+        <handlers:Item Key="item0A0C" Value="浣熊先生"/>
+        <handlers:Item Key="item0A0D" Value="不对劲的地毯（1楼）"/>
+        <handlers:Item Key="item0A0E" Value="不对劲的地毯（2楼）"/>
+        <handlers:Item Key="item0A0F" Value="S.T.A.R.S. 壁饰 1"/>
+        <handlers:Item Key="item0A10" Value="S.T.A.R.S. 壁饰 2"/>
+        <handlers:Item Key="item0A11" Value="打字机"/>
+        <handlers:Item Key="item0A12" Value="置物箱"/>
 		<handlers:Item Key="item0A13" Value="Item 2579"/>
 		<handlers:Item Key="item0A14" Value="Item 2580"/>
 		<handlers:Item Key="item0A15" Value="雪人【万福】"/>
@@ -2708,9 +2708,9 @@
 		<handlers:Item Key="item0A78" Value="Item 2680"/>
 		<handlers:Item Key="item0A79" Value="Item 2681"/>
 		<handlers:Item Key="item0A7A" Value="Item 2682"/>
-        <handlers:Item Key="item0A7B" Value="Green Herb"/>
-        <handlers:Item Key="item0A7C" Value="Red Herb"/>
-        <handlers:Item Key="item0A7D" Value="Mixed Herb (G+R)"/>
+        <handlers:Item Key="item0A7B" Value="绿色药草"/>
+        <handlers:Item Key="item0A7C" Value="红色药草"/>
+        <handlers:Item Key="item0A7D" Value="混合药草（绿 + 红）"/>
 		<handlers:Item Key="item0A7E" Value="钢之炼金票"/>
 		<handlers:Item Key="item0A7F" Value="银之炼金票"/>
 		<handlers:Item Key="item0A80" Value="神秘炼金珠·钢"/>
@@ -2729,9 +2729,9 @@
 		<handlers:Item Key="item0A8D" Value="Item 2701"/>
 		<handlers:Item Key="item0A8E" Value="Item 2702"/>
 		<handlers:Item Key="item0A8F" Value="Item 2703"/>
-        <handlers:Item Key="item0A90" Value="Black Eagle Blueprint"/>
-        <handlers:Item Key="item0A91" Value="Wiggler Pot"/>
-        <handlers:Item Key="item0A92" Value="S.T.A.R.S. Badge"/>
+        <handlers:Item Key="item0A90" Value="黑鹰的设计图"/>
+        <handlers:Item Key="item0A91" Value="摇曳鳗壶"/>
+        <handlers:Item Key="item0A92" Value="S.T.A.R.S. 徽章"/>
 		<handlers:Item Key="item0A93" Value="Item 2707"/>
 		<handlers:Item Key="item0A94" Value="Item 2708"/>
 		<handlers:Item Key="item0A95" Value="Item 2709"/>
@@ -2760,8 +2760,8 @@
 		<handlers:Item Key="item0AAC" Value="Item 2732"/>
         <handlers:Item Key="item0AAD" Value="Large Beast Tear"/>
         <handlers:Item Key="item0AAE" Value="Magnificent Pelt"/>
-		<handlers:Item Key="item0AAF" Value="万福票ＳＰ"/>
-		<handlers:Item Key="item0AB0" Value="大感谢票ＳＰ"/>
+		<handlers:Item Key="item0AAF" Value="特別万福票"/>
+		<handlers:Item Key="item0AB0" Value="特別大感谢票"/>
     </x:Array>
 
 </ResourceDictionary>
