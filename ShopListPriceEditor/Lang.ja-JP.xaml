@@ -2756,8 +2756,8 @@
         <handlers:Item Key="item0AAA" Value="親友の証"/>
         <handlers:Item Key="item0AAB" Value="Item 2731"/>
         <handlers:Item Key="item0AAC" Value="Item 2732"/>
-        <handlers:Item Key="item0AAD" Value="Large Beast Tear"/>
-        <handlers:Item Key="item0AAE" Value="Magnificent Pelt"/>
+        <handlers:Item Key="item0AAD" Value="牙獣の大粒ナミダ"/>
+        <handlers:Item Key="item0AAE" Value="すばらしい毛皮"/>
         <handlers:Item Key="item0AAF" Value="万福チケットSP"/>
         <handlers:Item Key="item0AB0" Value="大感謝チケットSP"/>
     </x:Array>
